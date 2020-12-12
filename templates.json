@@ -1,0 +1,5524 @@
+[
+  {
+    "id": "Ls1wAO3iKzPUJnn3rOyO",
+    "type": "normal",
+    "category": "Simple",
+    "price": 0,
+    "name": "Teeela",
+    "sku": "NOR-TELA",
+    "enabled": false,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Ls1wAO3iKzPUJnn3rOyO/thumbnail",
+    "createdAt": 1605367577313,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/aVlIrGrWMg4m8V1gwT9k/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Ls1wAO3iKzPUJnn3rOyO/boxView",
+    "placeholders": [],
+    "width": 1500,
+    "height": 1500,
+    "patternType": ""
+  },
+  {
+    "id": "0oN3ZAmEFdhCFTngik4o",
+    "type": "pattern",
+    "category": "Fun",
+    "price": 2,
+    "name": "Detective",
+    "sku": "CTM-DET",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/unQpabFNhXBO49kGwkwg/thumbnail",
+    "createdAt": 1603445860799,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/521HW0Uc91GblzfNSi4W/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/A6DNaWdj6AlzNBfFB9Eg/boxView",
+    "placeholders": [
+      {
+        "id": "pKqp2vCcnR9hU5S90KCVu",
+        "angle": 0,
+        "width": 618,
+        "groupId": "1",
+        "height": 715,
+        "startPoint": [
+          670,
+          71
+        ],
+        "area": "top",
+        "type": "image"
+      },
+      {
+        "area": "top",
+        "groupId": "2",
+        "height": 715,
+        "id": "zBYUYbPpLuBcRKw9wY8Nm",
+        "angle": 0,
+        "width": 618,
+        "startPoint": [
+          102,
+          2185
+        ],
+        "type": "image"
+      },
+      {
+        "id": "LEQMGajJvJyC5XdkmZveV",
+        "startPoint": [
+          1908,
+          1583
+        ],
+        "type": "image",
+        "width": 913,
+        "angle": 0,
+        "area": "top",
+        "groupId": "3",
+        "height": 1042
+      }
+    ],
+    "width": 3000,
+    "height": 3000,
+    "patternType": "normal"
+  },
+  {
+    "id": "0wE5NWt7UtUSQCxmum7m",
+    "type": "pattern",
+    "category": "Get well soon",
+    "price": 2,
+    "name": "Get Well Unicorns",
+    "sku": "CTM-GWUN",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/0wE5NWt7UtUSQCxmum7m/thumbnail",
+    "createdAt": 1604050105537,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/yEdOfPDO00TuUHz1N8mO/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/l1LQWACZhRtOHNHl5B8V/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "width": 667,
+        "type": "image",
+        "height": 667,
+        "startPoint": [
+          0,
+          0
+        ],
+        "area": "top",
+        "groupId": "1",
+        "id": "zxejIFQanFS19LkvI_hEH"
+      },
+      {
+        "area": "top",
+        "height": 669,
+        "type": "image",
+        "id": "Ud7ewYhJG0TQ4KcUjAVYc",
+        "width": 669,
+        "angle": 0,
+        "groupId": "2",
+        "startPoint": [
+          666,
+          666
+        ]
+      },
+      {
+        "groupId": "3",
+        "id": "6XSsyfHK51nHUvOh9c_Lz",
+        "height": 667,
+        "angle": 0,
+        "startPoint": [
+          1333,
+          1333
+        ],
+        "type": "image",
+        "area": "top",
+        "width": 667
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "1P16zVsLtqqXbNk9w10q",
+    "type": "pattern",
+    "category": "Boys",
+    "price": 2,
+    "name": "Robot",
+    "sku": "CTM-ROB",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/E1scKJaNW0JknIbJ4npw/thumbnail",
+    "createdAt": 1603181993881,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/h5i1XjPQa3c9xGrpE1hy/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/bcGwXY0xvWAcDJePCTD0/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "groupId": "1",
+        "height": 470,
+        "startPoint": [
+          536,
+          352
+        ],
+        "type": "image",
+        "angle": 0,
+        "width": 470,
+        "id": "8dX3P8IjmQu9Hd4SZ4k2b"
+      },
+      {
+        "id": "naqw52mrAzlirG62hr4m6",
+        "height": 470,
+        "groupId": "1",
+        "type": "image",
+        "width": 470,
+        "angle": 0,
+        "area": "top",
+        "startPoint": [
+          2924,
+          165
+        ]
+      },
+      {
+        "width": 470,
+        "height": 470,
+        "id": "jPVVC8rWWGBxn9_vBBOCz",
+        "area": "top",
+        "groupId": "1",
+        "startPoint": [
+          1770,
+          1305
+        ],
+        "type": "image",
+        "angle": 0
+      },
+      {
+        "height": 470,
+        "width": 470,
+        "area": "top",
+        "startPoint": [
+          582,
+          2409
+        ],
+        "angle": 0,
+        "type": "image",
+        "id": "b_69GnQi075e9awfct-WV",
+        "groupId": "1"
+      },
+      {
+        "groupId": "1",
+        "angle": 0,
+        "width": 470,
+        "startPoint": [
+          2958,
+          2323
+        ],
+        "area": "top",
+        "height": 470,
+        "type": "image",
+        "id": "klnukJR9gq57KdcUDpEq-"
+      }
+    ],
+    "width": 4000,
+    "height": 4000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "1aaeCA9CHY6YugRmzNdF",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Caticorn",
+    "sku": "CTM-CATC",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/1aaeCA9CHY6YugRmzNdF/thumbnail",
+    "createdAt": 1604406580755,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/eBMgDUiNT8bUgmzpW8QE/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/zLKGy0U9uSzeGmkgNuJx/boxView",
+    "placeholders": [
+      {
+        "id": "xkEDExsowrC5fJdg5d_sA",
+        "area": "top",
+        "width": 470,
+        "angle": 0,
+        "groupId": "1",
+        "height": 470,
+        "type": "image",
+        "startPoint": [
+          641,
+          148
+        ]
+      },
+      {
+        "area": "top",
+        "height": 470,
+        "type": "image",
+        "groupId": "1",
+        "id": "c6I076TYAd6PiTgTMMzza",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "width": 470,
+        "angle": 0
+      },
+      {
+        "angle": 0,
+        "type": "image",
+        "height": 470,
+        "area": "top",
+        "width": 470,
+        "startPoint": [
+          239,
+          1388
+        ],
+        "groupId": "1",
+        "id": "npqNmQyJubmv_IPK6QzEz"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "1sKvgKMzhdYcVLcm5YrJ",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "Pink Birthday",
+    "sku": "CTM-PBD",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/1sKvgKMzhdYcVLcm5YrJ/thumbnail",
+    "createdAt": 1604313086023,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/GBU3fnm11V4Le2qC98CC/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/DryW9HOoHqaULtHDToK8/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "startPoint": [
+          641,
+          148
+        ],
+        "area": "top",
+        "groupId": "1",
+        "width": 500,
+        "height": 500,
+        "type": "image",
+        "id": "OXXUXeweaHNmCGYGIxRm2"
+      },
+      {
+        "groupId": "1",
+        "area": "top",
+        "startPoint": [
+          1348,
+          863
+        ],
+        "width": 500,
+        "height": 500,
+        "type": "image",
+        "id": "xjsIuwoJLiHDVPwHdz2fG",
+        "angle": 0
+      },
+      {
+        "groupId": "1",
+        "id": "Ykmp75x6CGJZMs4cdT3gd",
+        "angle": 0,
+        "area": "top",
+        "height": 500,
+        "width": 500,
+        "startPoint": [
+          239,
+          1388
+        ],
+        "type": "image"
+      }
+    ],
+    "width": 2000,
+    "height": 1999,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "2b9TAr3aeeHeZRS4YhY8",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Feathers",
+    "sku": "CTM-FEA",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/2b9TAr3aeeHeZRS4YhY8/thumbnail",
+    "createdAt": 1604393658612,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/lDXw5LY88M5xJGbYvuEz/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/ld4OxeyK1LwM4WwhFkOI/boxView",
+    "placeholders": [
+      {
+        "groupId": "1",
+        "type": "image",
+        "angle": 0,
+        "height": 470,
+        "id": "lB_Kq_c48tf-tfW9N_TeE",
+        "area": "top",
+        "startPoint": [
+          641,
+          148
+        ],
+        "width": 470
+      },
+      {
+        "area": "top",
+        "groupId": "1",
+        "height": 470,
+        "angle": 0,
+        "startPoint": [
+          1348,
+          970
+        ],
+        "type": "image",
+        "width": 470,
+        "id": "82HLMEQsx7YJTseHFg8aK"
+      },
+      {
+        "height": 470,
+        "angle": 0,
+        "type": "image",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "groupId": "1",
+        "width": 470,
+        "area": "top",
+        "id": "IRmK9NWLHW_kRwzmdpqW8"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "2wByt1uPZXAzms9yH1Wb",
+    "type": "pattern",
+    "category": "Fun",
+    "price": 2,
+    "name": "Robots",
+    "sku": "CTM-ROO",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/2wByt1uPZXAzms9yH1Wb/thumbnail",
+    "createdAt": 1604053392198,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/a9xThFQBH8oEMQbrAVli/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/xu0U1ooZsngE1csNbUZ1/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "startPoint": [
+          13,
+          13
+        ],
+        "type": "image",
+        "id": "4Pr0UGT8nlmjkw1pFMkDR",
+        "height": 650,
+        "groupId": "1",
+        "angle": 0,
+        "width": 650
+      },
+      {
+        "startPoint": [
+          687,
+          673
+        ],
+        "groupId": "2",
+        "type": "image",
+        "angle": 0,
+        "area": "top",
+        "width": 650,
+        "height": 650,
+        "id": "oN8CLDqlhFEdKskbLQ6-R"
+      },
+      {
+        "id": "bTy3uvmu9rwkebQT2XXi_",
+        "startPoint": [
+          1345,
+          1345
+        ],
+        "width": 650,
+        "height": 650,
+        "groupId": "3",
+        "type": "image",
+        "area": "top",
+        "angle": 0
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "3Zh8NHaklpcjYf5Mfngr",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "Sunny Day",
+    "sku": "CTM-SUND",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/xjhldEBnj8eiRZc26sTS/thumbnail",
+    "createdAt": 1603185739527,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Arg3QZBRI1gX7P6M4x7z/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Im3SzgrsTyvGmW9TLpsH/boxView",
+    "placeholders": [
+      {
+        "id": "_aQPZLUvnT5sGhe29HBkB",
+        "angle": 0,
+        "groupId": "1",
+        "startPoint": [
+          641,
+          148
+        ],
+        "type": "image",
+        "area": "top",
+        "width": 470,
+        "height": 470
+      },
+      {
+        "area": "top",
+        "startPoint": [
+          1348,
+          863
+        ],
+        "type": "image",
+        "width": 470,
+        "angle": 0,
+        "groupId": "1",
+        "height": 470,
+        "id": "3AxOzDsqS9BhUBGTMp_l3"
+      },
+      {
+        "groupId": "1",
+        "width": 470,
+        "height": 470,
+        "id": "da77Js-eyHUfOIOiIgyH8",
+        "angle": 0,
+        "area": "top",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "type": "image"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "44w0qDhTCa8uuK8NBlYw",
+    "type": "pattern",
+    "category": "Boys",
+    "price": 2,
+    "name": "Racing",
+    "sku": "CTM-RAC",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/44w0qDhTCa8uuK8NBlYw/thumbnail",
+    "createdAt": 1604051435973,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/LxFfVwRxSjtLFh3YZrVA/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/nMiXcVKntddVvXA20yii/boxView",
+    "placeholders": [
+      {
+        "id": "c-S1vGBQFAVaenrL17F_C",
+        "area": "top",
+        "angle": 0,
+        "width": 667,
+        "type": "image",
+        "height": 667,
+        "startPoint": [
+          0,
+          0
+        ],
+        "groupId": "1"
+      },
+      {
+        "id": "Iwk-Xfkdy8FmmVHg5ORRu",
+        "groupId": "2",
+        "startPoint": [
+          666,
+          666
+        ],
+        "area": "top",
+        "type": "image",
+        "angle": 0,
+        "width": 669,
+        "height": 669
+      },
+      {
+        "type": "image",
+        "id": "CNTj9UcdxnhaAnHoJJXGl",
+        "startPoint": [
+          1333,
+          1333
+        ],
+        "angle": 0,
+        "area": "top",
+        "groupId": "3",
+        "height": 667,
+        "width": 667
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "5mzk4qTiB7gNJLAKKadY",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Dinosaur Tiles",
+    "sku": "CTM-DIT",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/5mzk4qTiB7gNJLAKKadY/thumbnail",
+    "createdAt": 1604049303702,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/HL4brR1XAjXeaf4P6Iot/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/qeQHVWH7p7ftEqFEvPdb/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "id": "oKwItCN5sEOz8fFA62nV4",
+        "startPoint": [
+          0,
+          0
+        ],
+        "type": "image",
+        "width": 667,
+        "area": "top",
+        "height": 667,
+        "groupId": "1"
+      },
+      {
+        "groupId": "2",
+        "width": 669,
+        "angle": 0,
+        "id": "JqDnX8KZrZSzkOGyMjGLn",
+        "height": 669,
+        "area": "top",
+        "startPoint": [
+          666,
+          666
+        ],
+        "type": "image"
+      },
+      {
+        "groupId": "3",
+        "type": "image",
+        "area": "top",
+        "angle": 0,
+        "width": 667,
+        "height": 667,
+        "startPoint": [
+          1333,
+          1333
+        ],
+        "id": "mTQAS8VRTc62uSpFRXBxy"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "5roTXOn8xZ21S6Hykzzd",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Princess",
+    "sku": "CTM-PRI",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/rR2dFZs2rdp1QHJsnPlO/thumbnail",
+    "createdAt": 1603184851398,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/03MuQC9zxKHIW0BGgSw6/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/HTbvd17cxedvaD1NKZdR/boxView",
+    "placeholders": [
+      {
+        "width": 470,
+        "type": "image",
+        "height": 470,
+        "startPoint": [
+          351,
+          554
+        ],
+        "area": "top",
+        "groupId": "1",
+        "angle": 0,
+        "id": "qm82vIX4nrntN2_8z0dLo"
+      },
+      {
+        "type": "image",
+        "groupId": "1",
+        "angle": 0,
+        "width": 470,
+        "height": 470,
+        "id": "6OnfX7-KbF5_aNn8Mpmwz",
+        "area": "top",
+        "startPoint": [
+          2534,
+          61
+        ]
+      },
+      {
+        "id": "t7noZxOMhJZFuAc5y-pBG",
+        "groupId": "1",
+        "width": 470,
+        "height": 470,
+        "startPoint": [
+          1813,
+          1210
+        ],
+        "angle": 0,
+        "area": "top",
+        "type": "image"
+      },
+      {
+        "angle": 0,
+        "height": 470,
+        "startPoint": [
+          822,
+          2565
+        ],
+        "type": "image",
+        "id": "XACfvU-yi9UYE3TUG7VML",
+        "area": "top",
+        "groupId": "1",
+        "width": 470
+      },
+      {
+        "height": 470,
+        "groupId": "1",
+        "angle": 0,
+        "width": 470,
+        "id": "fudrRjEjsXN_pd_z3pgY3",
+        "type": "image",
+        "area": "top",
+        "startPoint": [
+          2927,
+          2200
+        ]
+      }
+    ],
+    "width": 4000,
+    "height": 4000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "6Giv73XLCuelI1vnZ9DM",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "What animal am i",
+    "sku": "CTM-WAI",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/6Giv73XLCuelI1vnZ9DM/thumbnail",
+    "createdAt": 1604408110290,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/6qo89Pnp3XXkJurxvsbE/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/ZoPwsQZOnkwjP7fN7GDL/boxView",
+    "placeholders": [
+      {
+        "groupId": "1",
+        "id": "mGfFAl9rRHR5Wj7z_ZIWL",
+        "angle": 0,
+        "height": 667,
+        "width": 667,
+        "startPoint": [
+          0,
+          0
+        ],
+        "type": "image",
+        "area": "top"
+      },
+      {
+        "groupId": "2",
+        "id": "qNlNmXAxwUvogJT3L4i3W",
+        "height": 669,
+        "type": "image",
+        "angle": 0,
+        "area": "top",
+        "width": 669,
+        "startPoint": [
+          666,
+          666
+        ]
+      },
+      {
+        "height": 667,
+        "width": 667,
+        "area": "top",
+        "id": "G-AaeCA99y9KQ4dkWpm4Q",
+        "startPoint": [
+          1333,
+          1333
+        ],
+        "angle": 0,
+        "groupId": "3",
+        "type": "image"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "7OFCirV3FMPRY4HuU5mT",
+    "type": "pattern",
+    "category": "Boys",
+    "price": 2,
+    "name": "Strong",
+    "sku": "CTM-STR",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/TWdcjlqNw2dSvKD4Sg1E/thumbnail",
+    "createdAt": 1603182682181,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/dg7H7KE8lYrbHZzGA2Du/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/HDRB6Ly0Jc6CsEUC3vYq/boxView",
+    "placeholders": [
+      {
+        "startPoint": [
+          418,
+          482
+        ],
+        "type": "image",
+        "groupId": "1",
+        "width": 470,
+        "angle": 0,
+        "height": 470,
+        "id": "RIKlo9VGLlrHWg-abJqaD",
+        "area": "top"
+      },
+      {
+        "id": "BcY0yQUxEiJNhr1yflk7i",
+        "type": "image",
+        "groupId": "1",
+        "width": 470,
+        "height": 470,
+        "area": "top",
+        "startPoint": [
+          3000,
+          170
+        ],
+        "angle": 0
+      },
+      {
+        "angle": 0,
+        "groupId": "1",
+        "width": 470,
+        "type": "image",
+        "height": 470,
+        "startPoint": [
+          1732,
+          1273
+        ],
+        "area": "top",
+        "id": "LvE9geYHCjM8ZdMBQMmp5"
+      },
+      {
+        "angle": 0,
+        "type": "image",
+        "area": "top",
+        "startPoint": [
+          706,
+          2447
+        ],
+        "groupId": "1",
+        "height": 470,
+        "width": 470,
+        "id": "eBTG_-IvCTmsx1Ym5muMm"
+      },
+      {
+        "height": 470,
+        "id": "K4wpl--9b7k1LwmDv46lf",
+        "angle": 0,
+        "width": 470,
+        "groupId": "1",
+        "startPoint": [
+          2657,
+          2461
+        ],
+        "type": "image",
+        "area": "top"
+      }
+    ],
+    "width": 4000,
+    "height": 4000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "7ZLRdCHCL0xBl3OZEFxw",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Animal superheroes",
+    "sku": "CTM-ANS",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/7ZLRdCHCL0xBl3OZEFxw/thumbnail",
+    "createdAt": 1604345819158,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/hkks7LRVihPhkfgxTcaj/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/uhKUhnJCRb0Qg00o4HK4/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "width": 470,
+        "type": "image",
+        "id": "EHAWqofx7Tu_XoAPOUrOa",
+        "startPoint": [
+          641,
+          148
+        ],
+        "height": 470,
+        "groupId": "1",
+        "area": "top"
+      },
+      {
+        "height": 470,
+        "id": "70_BiJx0C-RP-hEWqI1Zp",
+        "type": "image",
+        "groupId": "1",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "width": 470,
+        "angle": 0,
+        "area": "top"
+      },
+      {
+        "height": 470,
+        "angle": 0,
+        "type": "image",
+        "width": 470,
+        "area": "top",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "groupId": "1",
+        "id": "4QrUxdGdS_O5y_JtlgS_v"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "7cBmRSL7FRMDC2YIq3wF",
+    "type": "pattern",
+    "category": "Fun",
+    "price": 2,
+    "name": "Donuts",
+    "sku": "CTM-DON",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/7cBmRSL7FRMDC2YIq3wF/thumbnail",
+    "createdAt": 1604049562737,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/qu3TSYOFJxtx8v9zyVHQ/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/DsObPu1C1jTqvX4yAPHC/boxView",
+    "placeholders": [
+      {
+        "startPoint": [
+          13,
+          13
+        ],
+        "type": "image",
+        "width": 650,
+        "height": 650,
+        "area": "top",
+        "groupId": "1",
+        "id": "Np65Az78lFYh81PcfMnAk",
+        "angle": 0
+      },
+      {
+        "width": 650,
+        "startPoint": [
+          687,
+          673
+        ],
+        "groupId": "2",
+        "id": "MW_hPSMrcpqDZywzkqFTK",
+        "type": "image",
+        "area": "top",
+        "height": 650,
+        "angle": 0
+      },
+      {
+        "width": 650,
+        "angle": 0,
+        "startPoint": [
+          1345,
+          1345
+        ],
+        "groupId": "3",
+        "id": "6RzzaLr16TMMb4fTGyAcJ",
+        "area": "top",
+        "type": "image",
+        "height": 650
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "7gzyqZjenE2XEpr9BpZp",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "So many gifts",
+    "sku": "CTM-SMG",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/7gzyqZjenE2XEpr9BpZp/thumbnail",
+    "createdAt": 1604394879088,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/NBZg7unMErb88L85Wdu5/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/OFVL4WLCtv8tDPkYX1Cn/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "area": "top",
+        "width": 470,
+        "startPoint": [
+          641,
+          148
+        ],
+        "groupId": "1",
+        "height": 470,
+        "id": "iipfckzW5X5DmSgD6MyKc",
+        "type": "image"
+      },
+      {
+        "groupId": "1",
+        "width": 470,
+        "id": "M0qqUKzr8rpfKdFeonbFZ",
+        "type": "image",
+        "height": 470,
+        "startPoint": [
+          1348,
+          970
+        ],
+        "angle": 0,
+        "area": "top"
+      },
+      {
+        "height": 470,
+        "startPoint": [
+          239,
+          1388
+        ],
+        "type": "image",
+        "angle": 0,
+        "area": "top",
+        "groupId": "1",
+        "width": 470,
+        "id": "rkPh_GI_JOr0eJt77ohg6"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "8XyH0qhIqm6NvKtBjvP1",
+    "type": "pattern",
+    "category": "Boys",
+    "price": 2,
+    "name": "Superhero",
+    "sku": "CTM-SUPH",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/tyCf9zGGf4rUVT0YxMiq/thumbnail",
+    "createdAt": 1603182340247,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/OftiQQVICOjvTd40vaDE/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/2GTFZ0WLRmSgPCTDZ7JQ/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "area": "top",
+        "startPoint": [
+          593,
+          624
+        ],
+        "type": "image",
+        "id": "inv5_AVJQSm_-FFB1dpMT",
+        "height": 470,
+        "groupId": "1",
+        "width": 470
+      },
+      {
+        "groupId": "1",
+        "width": 470,
+        "height": 470,
+        "startPoint": [
+          2616,
+          75
+        ],
+        "id": "Q34R-QlauhW_Bax5nNIeq",
+        "type": "image",
+        "angle": 0,
+        "area": "top"
+      },
+      {
+        "height": 470,
+        "area": "top",
+        "startPoint": [
+          1914,
+          1368
+        ],
+        "groupId": "1",
+        "width": 470,
+        "angle": 0,
+        "type": "image",
+        "id": "-E5jNiBT9S1_dY8XSAC5D"
+      },
+      {
+        "startPoint": [
+          1115,
+          2627
+        ],
+        "height": 470,
+        "width": 470,
+        "type": "image",
+        "angle": 0,
+        "id": "y3mNs_ZkvSVjEhcp5DOXI",
+        "area": "top",
+        "groupId": "1"
+      },
+      {
+        "id": "Gcs8u6LGy0IwJYX_Cc9hV",
+        "angle": 0,
+        "type": "image",
+        "startPoint": [
+          3098,
+          2343
+        ],
+        "width": 470,
+        "height": 470,
+        "area": "top",
+        "groupId": "1"
+      }
+    ],
+    "width": 4000,
+    "height": 4000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "8pjeBONINKnaeaY5ypLS",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "Monster party",
+    "sku": "CTM-MONP",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/wZklB1ErFjtSTQiiqcYY/thumbnail",
+    "createdAt": 1603446774194,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/nvODZ9ESyOPwvW7QWZUk/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Hkf5BsOtRUlFQSG2P768/boxView",
+    "placeholders": [
+      {
+        "height": 665,
+        "area": "top",
+        "width": 669,
+        "type": "image",
+        "id": "t0i8rJAc_6kKIfrRIGfnu",
+        "groupId": "1",
+        "angle": 0,
+        "startPoint": [
+          0,
+          0
+        ]
+      },
+      {
+        "startPoint": [
+          661,
+          657
+        ],
+        "height": 677,
+        "width": 669,
+        "area": "top",
+        "id": "_DapEIZtaTNtaefwo6JCN",
+        "groupId": "2",
+        "angle": 0,
+        "type": "image"
+      },
+      {
+        "type": "image",
+        "id": "X5GGm9qoUm_Qc_qSPP7K1",
+        "angle": 0,
+        "width": 680,
+        "startPoint": [
+          1320,
+          1325
+        ],
+        "height": 677,
+        "area": "top",
+        "groupId": "3"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "9GsuBOH7KhZIRgNWYbbH",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Fairies",
+    "sku": "CTM-FAI",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/9GsuBOH7KhZIRgNWYbbH/thumbnail",
+    "createdAt": 1604057253954,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/GL183HUjDoFk49xJZe9K/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/MjE2PpURJyyuUVkgna31/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "startPoint": [
+          539,
+          1255
+        ],
+        "type": "image",
+        "groupId": "1",
+        "height": 470,
+        "angle": 0,
+        "id": "9YVbOM0lV5R0Ut9jxlG0h",
+        "width": 470
+      },
+      {
+        "groupId": "1",
+        "angle": 0,
+        "height": 470,
+        "area": "top",
+        "id": "0fKRt5xWh1J0pbFYGZc56",
+        "startPoint": [
+          1653,
+          560
+        ],
+        "width": 470,
+        "type": "image"
+      },
+      {
+        "groupId": "1",
+        "angle": 0,
+        "width": 470,
+        "height": 470,
+        "id": "o-3igVaaJSeyYzjAunG9M",
+        "area": "top",
+        "type": "image",
+        "startPoint": [
+          348,
+          82
+        ]
+      }
+    ],
+    "width": 2400,
+    "height": 2400,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "9Y3WGlfapZXQjU75iNk7",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "Party Unicorns",
+    "sku": "CTM-PAP",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/9Y3WGlfapZXQjU75iNk7/thumbnail",
+    "createdAt": 1604051335823,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/mXBC6Bat22LE1pArH0nl/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/fIczN72r5RxxxYRQB7TD/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "type": "image",
+        "angle": 0,
+        "groupId": "1",
+        "id": "-B42fqLHRVqcI-TB2eq9K",
+        "height": 667,
+        "startPoint": [
+          0,
+          0
+        ],
+        "width": 667
+      },
+      {
+        "groupId": "2",
+        "id": "8DvTc3gMsKuugPuIvWgwo",
+        "angle": 0,
+        "width": 669,
+        "height": 669,
+        "type": "image",
+        "area": "top",
+        "startPoint": [
+          666,
+          666
+        ]
+      },
+      {
+        "groupId": "3",
+        "startPoint": [
+          1333,
+          1333
+        ],
+        "width": 667,
+        "area": "top",
+        "type": "image",
+        "id": "HqQimB1lWPXW1Ak3RHY76",
+        "height": 667,
+        "angle": 0
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "A8amPYn6dq9FEMb2WKw4",
+    "type": "pattern",
+    "category": "Boys",
+    "price": 2,
+    "name": "Boats",
+    "sku": "CTM-BOA",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/A8amPYn6dq9FEMb2WKw4/thumbnail",
+    "createdAt": 1604393755332,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/dp7fvtpk3fv7Ac1rjA85/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/2sd1aBYRI7sR1bMXGRki/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "id": "2l-v9SBuTugmB59k8coDx",
+        "startPoint": [
+          641,
+          148
+        ],
+        "width": 470,
+        "groupId": "1",
+        "height": 470,
+        "area": "top",
+        "type": "image"
+      },
+      {
+        "type": "image",
+        "area": "top",
+        "id": "Xt_dIeHJJhGcJjkoHwIP3",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "groupId": "1",
+        "width": 470,
+        "height": 470,
+        "angle": 0
+      },
+      {
+        "angle": 0,
+        "area": "top",
+        "width": 470,
+        "height": 470,
+        "id": "TmvzW4ZzkXgYK8PH1PPGE",
+        "type": "image",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "groupId": "1"
+      }
+    ],
+    "width": 2000,
+    "height": 1999,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "AYWYWE0uAqxuMc2m2RMj",
+    "type": "pattern",
+    "category": "Fun",
+    "price": 2,
+    "name": "Animal Circles",
+    "sku": "CTM-ACIR",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/js49yaXAadNOzSaPbNzv/thumbnail",
+    "createdAt": 1603371223591,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/r04x9omRTz12TrQqd7em/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/3PKSH0HGmpA2cXf6tS7k/boxView",
+    "placeholders": [
+      {
+        "width": 650,
+        "height": 650,
+        "id": "ifaaZFnEk5RFgBctihsGo",
+        "startPoint": [
+          13,
+          13
+        ],
+        "groupId": "1",
+        "type": "image",
+        "angle": 0,
+        "area": "top"
+      },
+      {
+        "type": "image",
+        "height": 650,
+        "startPoint": [
+          687,
+          673
+        ],
+        "angle": 0,
+        "groupId": "2",
+        "width": 650,
+        "id": "rd9wLaiiOa3q5BysGMdJj",
+        "area": "top"
+      },
+      {
+        "id": "kL2T5PFgLm2y7PXpOA9fE",
+        "groupId": "3",
+        "angle": 0,
+        "type": "image",
+        "width": 650,
+        "startPoint": [
+          1345,
+          1345
+        ],
+        "height": 650,
+        "area": "top"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "BLVEMZtLMEF6A8U4AmuI",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Bunnies",
+    "sku": "CTM-BUN",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/BLVEMZtLMEF6A8U4AmuI/thumbnail",
+    "createdAt": 1604393963321,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/czawQhaFk8qGoDUQWtdZ/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/tXpaa8OV5nzZCbatVJ07/boxView",
+    "placeholders": [
+      {
+        "type": "image",
+        "id": "Gn7QPKj1CigQnQuDpDe8N",
+        "height": 470,
+        "area": "top",
+        "startPoint": [
+          641,
+          148
+        ],
+        "groupId": "1",
+        "angle": 0,
+        "width": 470
+      },
+      {
+        "area": "top",
+        "groupId": "1",
+        "height": 470,
+        "width": 470,
+        "id": "Bizhm2UZNiX9YXcth8dKh",
+        "angle": 0,
+        "startPoint": [
+          1348,
+          970
+        ],
+        "type": "image"
+      },
+      {
+        "groupId": "1",
+        "angle": 0,
+        "startPoint": [
+          239,
+          1388
+        ],
+        "area": "top",
+        "width": 470,
+        "type": "image",
+        "height": 470,
+        "id": "SNOx21BmJNVQqu2bNuWkU"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "BlCS49FS7RVS64WC6PCn",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Violet",
+    "sku": "CTM-VIO",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/BlCS49FS7RVS64WC6PCn/thumbnail",
+    "createdAt": 1604395150746,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/uOATGOOqiN7FOklJM15S/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/lm0ysob5n6OjvimE3eNJ/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "type": "image",
+        "startPoint": [
+          641,
+          148
+        ],
+        "id": "b45sXTmrKsLJxw7Zvvcso",
+        "height": 470,
+        "area": "top",
+        "groupId": "1",
+        "width": 470
+      },
+      {
+        "id": "RXByTxNYpK6GlBTFHfCjL",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "height": 470,
+        "area": "top",
+        "groupId": "1",
+        "angle": 0,
+        "width": 470,
+        "type": "image"
+      },
+      {
+        "groupId": "1",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "width": 470,
+        "angle": 0,
+        "area": "top",
+        "type": "image",
+        "id": "XEKEFfU9Axrkh0wgjIH0_",
+        "height": 470
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "CoPHL80tyLebdQChnp6c",
+    "type": "pattern",
+    "category": "Baby",
+    "price": 2,
+    "name": "Baby joy",
+    "sku": "CTM-BAJ",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/CoPHL80tyLebdQChnp6c/thumbnail",
+    "createdAt": 1604346091916,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/REQ6lcyCfCsNjgcNIXw2/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/wSrlFb3ORPvvrSwYnokY/boxView",
+    "placeholders": [
+      {
+        "id": "y9o5XZrguHsnim4VTCHwn",
+        "area": "top",
+        "height": 470,
+        "groupId": "1",
+        "startPoint": [
+          641,
+          148
+        ],
+        "type": "image",
+        "angle": 0,
+        "width": 470
+      },
+      {
+        "width": 863,
+        "angle": 0,
+        "startPoint": [
+          1348,
+          970
+        ],
+        "area": "top",
+        "id": "KaUbym0l1g-Ru69YHjAp_",
+        "type": "image",
+        "height": 470,
+        "groupId": "1"
+      },
+      {
+        "area": "top",
+        "width": 470,
+        "angle": 0,
+        "groupId": "1",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "type": "image",
+        "id": "pyNvz1zJIkazc6psUPHcJ",
+        "height": 470
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "CqzzR9uRVmAUa7LYXJ4C",
+    "type": "pattern",
+    "category": "Fun",
+    "price": 2,
+    "name": "Smiling sun",
+    "sku": "CTM-SMS",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/CqzzR9uRVmAUa7LYXJ4C/thumbnail",
+    "createdAt": 1604394590485,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Kx4xi29xvaOtLGztunwX/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/RyjsBMLSawA7BcWi7eLO/boxView",
+    "placeholders": [
+      {
+        "height": 470,
+        "width": 470,
+        "angle": 0,
+        "groupId": "1",
+        "area": "top",
+        "startPoint": [
+          641,
+          148
+        ],
+        "type": "image",
+        "id": "YAbuGtmW1NKWUs5SH_zEZ"
+      },
+      {
+        "id": "MQqIgCcu5DBXsWGNPUnM6",
+        "groupId": "1",
+        "height": 470,
+        "area": "top",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "type": "image",
+        "width": 470,
+        "angle": 0
+      },
+      {
+        "groupId": "1",
+        "type": "image",
+        "id": "5-RzXOnXNXVaFxoeag3Sp",
+        "width": 470,
+        "angle": 0,
+        "area": "top",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "height": 470
+      }
+    ],
+    "width": 2000,
+    "height": 1999,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "FCmM1wnFtQksTlA1OUem",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Leafs",
+    "sku": "CTM-LEAF",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/FCmM1wnFtQksTlA1OUem/thumbnail",
+    "createdAt": 1604396020645,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/0jo6n61I45xi840DLayh/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/DGLbhSsOmUpCTJLb45vZ/boxView",
+    "placeholders": [
+      {
+        "id": "IeTp_eRyFhSWJoiZwMO07",
+        "groupId": "1",
+        "startPoint": [
+          641,
+          148
+        ],
+        "height": 470,
+        "area": "top",
+        "width": 470,
+        "type": "image",
+        "angle": 0
+      },
+      {
+        "startPoint": [
+          1348,
+          970
+        ],
+        "type": "image",
+        "angle": 0,
+        "width": 470,
+        "id": "ksYRR-CefaRemruF0Mw8K",
+        "groupId": "1",
+        "height": 470,
+        "area": "top"
+      },
+      {
+        "height": 470,
+        "groupId": "1",
+        "id": "0z8sWpRJF92pFHx-B0m61",
+        "angle": 0,
+        "area": "top",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "width": 470,
+        "type": "image"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "FYRXxl83eVHUGhQKxwEf",
+    "type": "pattern",
+    "category": "Baby",
+    "price": 2,
+    "name": "Chicks",
+    "sku": "CTM-CHI",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/FYRXxl83eVHUGhQKxwEf/thumbnail",
+    "createdAt": 1604408028888,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/iUOABjMnfWJsTs5DHuv6/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/MbVgHhTfrSLLQao2oKkh/boxView",
+    "placeholders": [
+      {
+        "type": "image",
+        "width": 932,
+        "angle": 0,
+        "height": 1039,
+        "area": "top",
+        "id": "lpmKGoMqwUWNM6OzRmjRo",
+        "groupId": "1",
+        "startPoint": [
+          580,
+          437
+        ]
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "FhSY916TnzY49gjSp11e",
+    "type": "pattern",
+    "category": "Fun",
+    "price": 2,
+    "name": "Newspaper",
+    "sku": "CTM-NEW",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/FhSY916TnzY49gjSp11e/thumbnail",
+    "createdAt": 1604408974576,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/1y5YnkLSlFyjyNJtp0OH/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/8qw90b7ztyywETWOdSha/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "id": "hc5eWjo2xLfPGyjmam_hT",
+        "groupId": "1",
+        "width": 600,
+        "height": 600,
+        "angle": 0,
+        "type": "image",
+        "startPoint": [
+          695,
+          755
+        ]
+      },
+      {
+        "height": 420,
+        "id": "IarWxkJ2K-yq_sgo1Ehcf",
+        "area": "top",
+        "angle": 0,
+        "groupId": "1",
+        "width": 420,
+        "startPoint": [
+          843,
+          2506
+        ],
+        "type": "image"
+      },
+      {
+        "id": "WTjKbUxgCWZanu1cmmviw",
+        "height": 420,
+        "width": 420,
+        "area": "top",
+        "groupId": "1",
+        "type": "image",
+        "angle": 0,
+        "startPoint": [
+          1623,
+          2554
+        ]
+      },
+      {
+        "height": 420,
+        "id": "tSPlWP4xKQCla8ZLz4WtH",
+        "area": "top",
+        "groupId": "1",
+        "type": "image",
+        "startPoint": [
+          2611,
+          2227
+        ],
+        "angle": 0,
+        "width": 420
+      }
+    ],
+    "width": 3500,
+    "height": 4497,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "GMLCXpXwuTtWaevvCtcT",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Princess dream",
+    "sku": "CTM-PRID",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/GMLCXpXwuTtWaevvCtcT/thumbnail",
+    "createdAt": 1604395249169,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/kY9VBaO4po4e4vVoCFZL/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/XFkp0XJKvAr7QKGVBPuA/boxView",
+    "placeholders": [
+      {
+        "width": 470,
+        "startPoint": [
+          641,
+          148
+        ],
+        "area": "top",
+        "id": "HZ8KHPfizt6TOoeh9JTVo",
+        "angle": 0,
+        "height": 470,
+        "groupId": "1",
+        "type": "image"
+      },
+      {
+        "height": 470,
+        "id": "qHHLgAOZfmI7juVMCEE5c",
+        "width": 470,
+        "type": "image",
+        "area": "top",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "angle": 0,
+        "groupId": "1"
+      },
+      {
+        "groupId": "1",
+        "type": "image",
+        "area": "top",
+        "height": 470,
+        "id": "0N5xx7bIHXiZZ6OdYw6W0",
+        "width": 470,
+        "angle": 0,
+        "startPoint": [
+          239,
+          1388
+        ]
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "GNZuJTUxwRI3u7BA5ysS",
+    "type": "pattern",
+    "category": "Fun",
+    "price": 2,
+    "name": "Comic Stars",
+    "sku": "CTM-COMS",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/GNZuJTUxwRI3u7BA5ysS/thumbnail",
+    "createdAt": 1604318631180,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/bh2U05mJPiOytIupHAO2/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/4ydZXawPDiobKeOTecz0/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "angle": 0,
+        "id": "eNu7E7J3OD3ro7xDRriSI",
+        "groupId": "1",
+        "height": 470,
+        "width": 470,
+        "type": "image",
+        "startPoint": [
+          641,
+          148
+        ]
+      },
+      {
+        "height": 470,
+        "id": "YGmNOXBkL8h-xpmutwU7O",
+        "groupId": "1",
+        "width": 470,
+        "type": "image",
+        "startPoint": [
+          1348,
+          863
+        ],
+        "angle": 0,
+        "area": "top"
+      },
+      {
+        "height": 470,
+        "startPoint": [
+          239,
+          1388
+        ],
+        "width": 470,
+        "angle": 0,
+        "id": "6IZ3yo2N9pFqITcDocOxK",
+        "groupId": "1",
+        "type": "image",
+        "area": "top"
+      }
+    ],
+    "width": 2000,
+    "height": 1999,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "GVq4lfj4iQw6lrAPDNa8",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Loving animals",
+    "sku": "CTM-LOA",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/GVq4lfj4iQw6lrAPDNa8/thumbnail",
+    "createdAt": 1604395867307,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/DRprUyWjAEYv3Y0dPaLA/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/I7anESWUdvMuXnmjAueh/boxView",
+    "placeholders": [
+      {
+        "id": "CT8pjnOImUjkt0ONqffhZ",
+        "height": 470,
+        "width": 470,
+        "area": "top",
+        "startPoint": [
+          641,
+          148
+        ],
+        "angle": 0,
+        "groupId": "1",
+        "type": "image"
+      },
+      {
+        "height": 470,
+        "groupId": "1",
+        "width": 470,
+        "angle": 0,
+        "startPoint": [
+          1348,
+          970
+        ],
+        "type": "image",
+        "area": "top",
+        "id": "1yK0VLdQLocDOVJYUwAra"
+      },
+      {
+        "angle": 0,
+        "type": "image",
+        "area": "top",
+        "height": 470,
+        "id": "UepQbdnoq_apLBLiN092s",
+        "width": 470,
+        "startPoint": [
+          239,
+          1388
+        ],
+        "groupId": "1"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "HKh5inQHt9vltdTG8ArA",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Red flowers",
+    "sku": "CTM-RED",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/HKh5inQHt9vltdTG8ArA/thumbnail",
+    "createdAt": 1604346207201,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/zLAedmwLusB1Vpj6e1tL/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/ciFHObdn9qpc381GONK5/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "width": 470,
+        "height": 470,
+        "id": "4-gGpbPYlH24CFyIWyzAw",
+        "angle": 0,
+        "startPoint": [
+          641,
+          148
+        ],
+        "type": "image",
+        "groupId": "1"
+      },
+      {
+        "id": "DUoTKanxPppWbCr_Y2WFJ",
+        "angle": 0,
+        "height": 470,
+        "startPoint": [
+          1348,
+          863
+        ],
+        "type": "image",
+        "groupId": "1",
+        "width": 470,
+        "area": "top"
+      },
+      {
+        "angle": 0,
+        "groupId": "1",
+        "id": "tWxjNfZCWwsC4rCE4YY3B",
+        "height": 470,
+        "width": 470,
+        "startPoint": [
+          239,
+          1388
+        ],
+        "area": "top",
+        "type": "image"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "HxxEO0I49j4uouEVjaFx",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "Purple Birthday",
+    "sku": "CTM-PUB",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/HxxEO0I49j4uouEVjaFx/thumbnail",
+    "createdAt": 1604313001815,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/9ayzsaaEFNPaD8kmdvTL/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Qd4ZFFsKj7rGb3JVrwdw/boxView",
+    "placeholders": [
+      {
+        "groupId": "1",
+        "height": 470,
+        "area": "top",
+        "angle": 0,
+        "type": "image",
+        "width": 470,
+        "startPoint": [
+          641,
+          148
+        ],
+        "id": "kuBYiQRXkJ6ysdWI2Gukv"
+      },
+      {
+        "type": "image",
+        "startPoint": [
+          1348,
+          863
+        ],
+        "groupId": "1",
+        "angle": 0,
+        "area": "top",
+        "id": "9In0nDyP6wT1bfXWhv2rQ",
+        "height": 470,
+        "width": 470
+      },
+      {
+        "startPoint": [
+          239,
+          1388
+        ],
+        "height": 470,
+        "id": "cBPvg1CAb194QtlzQxeiE",
+        "angle": 0,
+        "width": 470,
+        "groupId": "1",
+        "type": "image",
+        "area": "top"
+      }
+    ],
+    "width": 2000,
+    "height": 1999,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "JSzbrbf0ICRts3cPUfCK",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "Rose Birthday",
+    "sku": "CTM-RBD",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/JSzbrbf0ICRts3cPUfCK/thumbnail",
+    "createdAt": 1604312829933,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/6IBg4X0jV9FcZ4bNw4qG/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Z8qcRfrzU9qTnARsww8o/boxView",
+    "placeholders": [
+      {
+        "id": "dM72DzjfWRM3UsC4YLNBc",
+        "type": "image",
+        "height": 470,
+        "groupId": "1",
+        "angle": 0,
+        "area": "top",
+        "width": 470,
+        "startPoint": [
+          641,
+          148
+        ]
+      },
+      {
+        "area": "top",
+        "height": 470,
+        "type": "image",
+        "id": "xcDWom8fvcu6NjwgHnwy-",
+        "width": 470,
+        "groupId": "1",
+        "angle": 0,
+        "startPoint": [
+          1348,
+          863
+        ]
+      },
+      {
+        "width": 470,
+        "height": 470,
+        "id": "JifZ7wD9qyM0HMKvjQne-",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "groupId": "1",
+        "type": "image",
+        "angle": 0,
+        "area": "top"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "JTjLdrJfEuuzGgqHZ02H",
+    "type": "pattern",
+    "category": "Fun",
+    "price": 2,
+    "name": "Tropical dream",
+    "sku": "CTM-TROD",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/JTjLdrJfEuuzGgqHZ02H/thumbnail",
+    "createdAt": 1604395014497,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/UBbUfS3LJRqgkUmSH77D/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Cb1I7IYCz8cbpLmgbtk6/boxView",
+    "placeholders": [
+      {
+        "groupId": "1",
+        "width": 470,
+        "type": "image",
+        "id": "EhSkkKnYfd7BCP9X0KDhk",
+        "area": "top",
+        "height": 470,
+        "startPoint": [
+          641,
+          148
+        ],
+        "angle": 0
+      },
+      {
+        "height": 470,
+        "angle": 0,
+        "id": "rPq2BF76yE36WttYbqpYa",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "groupId": "1",
+        "width": 470,
+        "type": "image",
+        "area": "top"
+      },
+      {
+        "height": 470,
+        "id": "1qNCRVXVW_YT9WeHExeuo",
+        "type": "image",
+        "width": 470,
+        "startPoint": [
+          239,
+          1388
+        ],
+        "angle": 0,
+        "groupId": "1",
+        "area": "top"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "JXzKcpn2ys1Ut80606rv",
+    "type": "pattern",
+    "category": "Boys",
+    "price": 2,
+    "name": "Pirate",
+    "sku": "CTM-PIR",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/DZKzED4L7cemq0i2JvHd/thumbnail",
+    "createdAt": 1603290864988,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/6If8b1uddH1d86pa3DMA/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/nhhuJMM2xs5xLtdCnWPK/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "id": "1gpzmrxmbe9ntMQLQ0xrs",
+        "groupId": "1",
+        "height": 470,
+        "width": 470,
+        "area": "top",
+        "startPoint": [
+          1192,
+          239
+        ],
+        "type": "image"
+      },
+      {
+        "type": "image",
+        "height": 470,
+        "area": "top",
+        "width": 470,
+        "id": "lHKAWpKWYRpiQkhl6iGhQ",
+        "groupId": "1",
+        "angle": 0,
+        "startPoint": [
+          393,
+          1283
+        ]
+      },
+      {
+        "height": 470,
+        "groupId": "1",
+        "type": "image",
+        "startPoint": [
+          2107,
+          1583
+        ],
+        "angle": 0,
+        "width": 470,
+        "id": "gbLMJmwYYsPfXdo5oLzZv",
+        "area": "top"
+      }
+    ],
+    "width": 3000,
+    "height": 3000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "JwJIWFU7rL157CS22dJR",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Girl party",
+    "sku": "CTM-GPAR",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/JwJIWFU7rL157CS22dJR/thumbnail",
+    "createdAt": 1604406932461,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/lBg7RZwyHhFnzCL2FqMt/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/uVmFfZnOB4AJq2DI4gvK/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "id": "qFTKoNRof57PwZb1zvNDv",
+        "height": 470,
+        "type": "image",
+        "width": 470,
+        "angle": 0,
+        "groupId": "1",
+        "startPoint": [
+          641,
+          148
+        ]
+      },
+      {
+        "startPoint": [
+          1348,
+          970
+        ],
+        "height": 470,
+        "groupId": "1",
+        "id": "F6I-L45BS3NFyOiEc9t9W",
+        "width": 470,
+        "type": "image",
+        "angle": 0,
+        "area": "top"
+      },
+      {
+        "height": 470,
+        "angle": 0,
+        "groupId": "1",
+        "id": "9YcW5zKYzNuCaw2d7IkJF",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "area": "top",
+        "type": "image",
+        "width": 470
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "KMjFDqqkde6ysUFdawac",
+    "type": "pattern",
+    "category": "Baby",
+    "price": 2,
+    "name": "Chick party",
+    "sku": "CTM-CHP",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/KMjFDqqkde6ysUFdawac/thumbnail",
+    "createdAt": 1604407274759,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/fQ48NEEy2l2b9E6ci36X/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/HZychG0Ju0qL5lAZkJHr/boxView",
+    "placeholders": [
+      {
+        "height": 667,
+        "id": "XGyt0ZXUkYzntJ17GSLcg",
+        "groupId": "1",
+        "angle": 0,
+        "width": 667,
+        "type": "image",
+        "area": "top",
+        "startPoint": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "9w3Sp8UTyk4YYhZsEs7Lb",
+        "area": "top",
+        "startPoint": [
+          666,
+          666
+        ],
+        "width": 669,
+        "groupId": "2",
+        "height": 669,
+        "angle": 0,
+        "type": "image"
+      },
+      {
+        "height": 667,
+        "groupId": "3",
+        "startPoint": [
+          1333,
+          1333
+        ],
+        "id": "1-GyqR21B08cBnEjmHj3N",
+        "type": "image",
+        "area": "top",
+        "angle": 0,
+        "width": 667
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "KZbMhUH7HkdfIm8gjstY",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Unicats",
+    "sku": "CTM-UNIC",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/KZbMhUH7HkdfIm8gjstY/thumbnail",
+    "createdAt": 1604395083655,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/NVaOI5dzpRsnaDzisSQw/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Pu8IhqcKhVBygMoMdi73/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "startPoint": [
+          641,
+          148
+        ],
+        "type": "image",
+        "area": "top",
+        "groupId": "1",
+        "height": 470,
+        "width": 470,
+        "id": "6osVsRKH0H9pyvRMp4dsx"
+      },
+      {
+        "angle": 0,
+        "height": 470,
+        "groupId": "1",
+        "area": "top",
+        "type": "image",
+        "id": "KfN4z6svW4iGjZWYBsGun",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "width": 470
+      },
+      {
+        "height": 470,
+        "startPoint": [
+          239,
+          1389
+        ],
+        "width": 470,
+        "area": "top",
+        "id": "cFPbMykkrWSIYGDHk7shJ",
+        "groupId": "1",
+        "angle": 0,
+        "type": "image"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "LQMzDchEVT2B1N2ikQbe",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Singing animals",
+    "sku": "CTM-SIA",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/LQMzDchEVT2B1N2ikQbe/thumbnail",
+    "createdAt": 1604394658453,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/xPQzQRn6uMP6pdpcF9nC/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/144LhjyUGJsmUcudagIH/boxView",
+    "placeholders": [
+      {
+        "id": "z5GF9GeizrNDxi_jGp5yB",
+        "startPoint": [
+          641,
+          148
+        ],
+        "type": "image",
+        "angle": 0,
+        "area": "top",
+        "groupId": "1",
+        "height": 470,
+        "width": 470
+      },
+      {
+        "area": "top",
+        "height": 470,
+        "id": "VYNSBlLLhiedN5p-EcSYK",
+        "groupId": "1",
+        "angle": 0,
+        "startPoint": [
+          1348,
+          970
+        ],
+        "type": "image",
+        "width": 470
+      },
+      {
+        "type": "image",
+        "angle": 0,
+        "groupId": "1",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "width": 470,
+        "area": "top",
+        "id": "WiU0AlGbTM-TDxO42Upkm",
+        "height": 470
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "LbnjdlDyCc84tPFrr40x",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Roses",
+    "sku": "CTM-ROSE",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/LbnjdlDyCc84tPFrr40x/thumbnail",
+    "createdAt": 1604394805362,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/3cGtN2827O2htDVA2Eys/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/GetC6vZNxEcBxiHM4oeV/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "startPoint": [
+          641,
+          148
+        ],
+        "angle": 0,
+        "groupId": "1",
+        "width": 470,
+        "id": "qGtSPZIrRu0S4Wr3WqRlq",
+        "height": 470,
+        "type": "image"
+      },
+      {
+        "id": "bQ7TbiFgRSTykosujwPuG",
+        "groupId": "1",
+        "width": 470,
+        "angle": 0,
+        "type": "image",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "height": 470,
+        "area": "top"
+      },
+      {
+        "id": "1vFG8CJUVT5YkiqNisUzT",
+        "height": 470,
+        "angle": 0,
+        "groupId": "1",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "width": 470,
+        "area": "top",
+        "type": "image"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "MuGeM2V4lIDrJXWnMpGE",
+    "type": "pattern",
+    "category": "Fun",
+    "price": 2,
+    "name": "Read",
+    "sku": "CTM-REA",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/MuGeM2V4lIDrJXWnMpGE/thumbnail",
+    "createdAt": 1604393020585,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/ewdDG1DYsolspkW4K1Km/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/WcRNQey92IUxzVkS0XFY/boxView",
+    "placeholders": [
+      {
+        "height": 470,
+        "width": 470,
+        "id": "t_DrT8KAftN5w8Hg5LqJy",
+        "area": "top",
+        "startPoint": [
+          641,
+          148
+        ],
+        "type": "image",
+        "angle": 0,
+        "groupId": "1"
+      },
+      {
+        "type": "image",
+        "groupId": "1",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "width": 470,
+        "height": 470,
+        "angle": 0,
+        "id": "NE4aWFLRS_DASjsLH6kqZ",
+        "area": "top"
+      },
+      {
+        "startPoint": [
+          239,
+          1388
+        ],
+        "height": 470,
+        "type": "image",
+        "width": 470,
+        "groupId": "1",
+        "angle": 0,
+        "id": "4R1S0pevz71rER5oIc5Cl",
+        "area": "top"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "NLZsvB6subzX8h4XOoDr",
+    "type": "diy",
+    "category": "Build your design",
+    "price": 2,
+    "name": "Your own design",
+    "sku": "CTM-YOD",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Z5Evtq4upbc8HFpjcXx2/thumbnail",
+    "createdAt": 1603115667835,
+    "cutout": {},
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/FL6PlJeHo5vDa6kt64bK/boxView",
+    "placeholders": [],
+    "width": 0,
+    "height": 0,
+    "patternType": ""
+  },
+  {
+    "id": "PIAKdUkPJQLW8S7WZy5f",
+    "type": "pattern",
+    "category": "Fun",
+    "price": 2,
+    "name": "Aliens",
+    "sku": "CTM-ALIEN",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/PIAKdUkPJQLW8S7WZy5f/thumbnail",
+    "createdAt": 1604047452563,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/3L7F1Kn5sVtH8dsu6h1R/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/LwRZVQpZ5JzZNB5nwjaK/boxView",
+    "placeholders": [
+      {
+        "groupId": "1",
+        "id": "j-rx8fzQuNptyPs1mUsCA",
+        "area": "top",
+        "width": 667,
+        "type": "image",
+        "angle": 0,
+        "startPoint": [
+          0,
+          0
+        ],
+        "height": 667
+      },
+      {
+        "id": "Aiw1A1v00CJAjruVsIzw9",
+        "type": "image",
+        "area": "top",
+        "groupId": "2",
+        "width": 669,
+        "height": 669,
+        "angle": 0,
+        "startPoint": [
+          666,
+          666
+        ]
+      },
+      {
+        "type": "image",
+        "width": 667,
+        "startPoint": [
+          1333,
+          1333
+        ],
+        "id": "i7E8iuWjvvVV2COgCh58O",
+        "area": "top",
+        "height": 667,
+        "angle": 0,
+        "groupId": "3"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "T3nUXlB9JiiemeBCFzsn",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Lamas",
+    "sku": "CTM-LAMA",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/T3nUXlB9JiiemeBCFzsn/thumbnail",
+    "createdAt": 1604396086051,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/vFXQO3lniI0hFij3BjtL/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/aKyy8UyKxULnxktUvSin/boxView",
+    "placeholders": [
+      {
+        "groupId": "1",
+        "width": 470,
+        "height": 470,
+        "startPoint": [
+          641,
+          148
+        ],
+        "angle": 0,
+        "area": "top",
+        "id": "5MjMxOXuUG7terrYLOK__",
+        "type": "image"
+      },
+      {
+        "startPoint": [
+          1348,
+          970
+        ],
+        "width": 470,
+        "id": "GxWi1sePpZRWb5O7C8jei",
+        "area": "top",
+        "type": "image",
+        "groupId": "1",
+        "height": 470,
+        "angle": 0
+      },
+      {
+        "angle": 0,
+        "width": 470,
+        "area": "top",
+        "height": 470,
+        "id": "8Tc9lFE7_Wqox9IL3J08C",
+        "groupId": "1",
+        "type": "image",
+        "startPoint": [
+          239,
+          1388
+        ]
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "T4booBCVBWhSxiXX3MDo",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Exotic birds",
+    "sku": "CTM-EXB",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/T4booBCVBWhSxiXX3MDo/thumbnail",
+    "createdAt": 1604393527802,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/ZaL850YK3CTjhuaUjbmg/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/nMQ4aNoLT812uyrBvOVx/boxView",
+    "placeholders": [
+      {
+        "type": "image",
+        "startPoint": [
+          641,
+          148
+        ],
+        "height": 470,
+        "angle": 0,
+        "groupId": "1",
+        "id": "-GtY3Nz9PUfH1kLY94kd0",
+        "width": 470,
+        "area": "top"
+      },
+      {
+        "groupId": "1",
+        "id": "m3NPZJbZ1gs7E_V6M8woT",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "area": "top",
+        "type": "image",
+        "angle": 0,
+        "height": 470,
+        "width": 470
+      },
+      {
+        "type": "image",
+        "width": 470,
+        "groupId": "1",
+        "angle": 0,
+        "height": 470,
+        "area": "top",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "id": "cAspAZaWDt0U4WpB8j_l5"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "TB6daNLEunTPg1O6FEuv",
+    "type": "pattern",
+    "category": "Baby",
+    "price": 2,
+    "name": "Sleepy Animals",
+    "sku": "CTM-SLA",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/TB6daNLEunTPg1O6FEuv/thumbnail",
+    "createdAt": 1604056997407,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/82mPqIH1sx9QOoth9V8z/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/WBzvacNXXjuzyEH9D4Rn/boxView",
+    "placeholders": [
+      {
+        "width": 650,
+        "id": "YEGCVpZw5eqDvAHeyrivJ",
+        "startPoint": [
+          13,
+          13
+        ],
+        "height": 650,
+        "angle": 0,
+        "groupId": "1",
+        "area": "top",
+        "type": "image"
+      },
+      {
+        "area": "top",
+        "startPoint": [
+          687,
+          673
+        ],
+        "width": 650,
+        "groupId": "2",
+        "height": 650,
+        "id": "Gukuk_u-Yj_-ZkPnMgcoT",
+        "type": "image",
+        "angle": 0
+      },
+      {
+        "height": 650,
+        "groupId": "3",
+        "width": 650,
+        "type": "image",
+        "angle": 0,
+        "id": "VUsLqiqCPmQf9-HNO8F5W",
+        "startPoint": [
+          1345,
+          1345
+        ],
+        "area": "top"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "TGn8vUYEcW9DAlv0DrZa",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Colorful birds",
+    "sku": "CTM-COB",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/TGn8vUYEcW9DAlv0DrZa/thumbnail",
+    "createdAt": 1604406660122,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/WENumWhIezcEM7i9ycQJ/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/aEpvLOS4c32ewNFnooXb/boxView",
+    "placeholders": [
+      {
+        "groupId": "1",
+        "area": "top",
+        "startPoint": [
+          641,
+          148
+        ],
+        "angle": 0,
+        "id": "yGtkJCDyyhS0MjqqGQtuX",
+        "height": 470,
+        "type": "image",
+        "width": 470
+      },
+      {
+        "type": "image",
+        "angle": 0,
+        "groupId": "1",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "height": 470,
+        "width": 470,
+        "area": "top",
+        "id": "NVNj0M_DgKK3RJuP-aCKd"
+      },
+      {
+        "height": 470,
+        "id": "LNAi2htYJLj5YKgCqVhC4",
+        "type": "image",
+        "area": "top",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "groupId": "1",
+        "angle": 0,
+        "width": 470
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "Tjysqxkr0gVp9zMhUP71",
+    "type": "pattern",
+    "category": "Fun",
+    "price": 2,
+    "name": "Cats",
+    "sku": "CTM-CAT",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Tjysqxkr0gVp9zMhUP71/thumbnail",
+    "createdAt": 1604059938029,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/6QH69zdXvqB7v5fwZRMU/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/bB14SvwVqTzzLzI2uW8P/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "id": "Cb-BeRDbNhPtyJSdSnVc7",
+        "type": "image",
+        "groupId": "1",
+        "area": "top",
+        "startPoint": [
+          13,
+          13
+        ],
+        "height": 650,
+        "width": 650
+      },
+      {
+        "height": 650,
+        "id": "LKvyUrzwsCSBn3LGnqgDx",
+        "startPoint": [
+          687,
+          673
+        ],
+        "groupId": "2",
+        "area": "top",
+        "angle": 0,
+        "type": "image",
+        "width": 650
+      },
+      {
+        "type": "image",
+        "startPoint": [
+          1345,
+          1345
+        ],
+        "angle": 0,
+        "id": "fctW6SrkjJnyJ14CNk-UN",
+        "area": "top",
+        "groupId": "3",
+        "height": 650,
+        "width": 650
+      }
+    ],
+    "width": 2000,
+    "height": 1999,
+    "patternType": "normal"
+  },
+  {
+    "id": "UjmYZ4sq2pYum3tlQdBQ",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "Birthday surprise",
+    "sku": "CTM-BDS",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/UjmYZ4sq2pYum3tlQdBQ/thumbnail",
+    "createdAt": 1604318929457,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/2x0RogrQsoWlBKYi5pFN/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/NG403jk6qYbQiDUI1VFL/boxView",
+    "placeholders": [
+      {
+        "height": 470,
+        "area": "top",
+        "startPoint": [
+          641,
+          148
+        ],
+        "type": "image",
+        "id": "rZC0B0XL-ysNjMAmZ6tfh",
+        "angle": 0,
+        "width": 470,
+        "groupId": "1"
+      },
+      {
+        "height": 470,
+        "startPoint": [
+          1348,
+          863
+        ],
+        "angle": 0,
+        "area": "top",
+        "type": "image",
+        "width": 470,
+        "id": "d3g5bNIZpxJjXYHmj8eWj",
+        "groupId": "1"
+      },
+      {
+        "width": 470,
+        "type": "image",
+        "groupId": "1",
+        "angle": 0,
+        "height": 470,
+        "area": "top",
+        "id": "TTMxPdZDQso4saGwKXxCy",
+        "startPoint": [
+          239,
+          1388
+        ]
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "UusyUygcjEoY9ZF7v7My",
+    "type": "pattern",
+    "category": "Boys",
+    "price": 2,
+    "name": "Spaceships",
+    "sku": "CTM-SPS",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/UusyUygcjEoY9ZF7v7My/thumbnail",
+    "createdAt": 1604394507873,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/ArCuVsGpSEkplv1f9qvd/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/II1dUiyjZh2rT6XM6Rab/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "height": 470,
+        "id": "4cI-fomv9a22pUA8r-8DG",
+        "groupId": "1",
+        "startPoint": [
+          641,
+          148
+        ],
+        "angle": 0,
+        "width": 470,
+        "type": "image"
+      },
+      {
+        "id": "xkdP-9S4gJZYFG37Oh3QA",
+        "angle": 0,
+        "width": 470,
+        "height": 470,
+        "area": "top",
+        "groupId": "1",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "type": "image"
+      },
+      {
+        "id": "pcG1QHiOl4g_UJ1Ua99Ci",
+        "angle": 0,
+        "height": 470,
+        "area": "top",
+        "groupId": "1",
+        "type": "image",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "width": 470
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "WIX4cppA1SMGqKVY4OCw",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Giraffe",
+    "sku": "CTM-GIR",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/WIX4cppA1SMGqKVY4OCw/thumbnail",
+    "createdAt": 1604393144202,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/DPD8xqvvL5Asq5TxwBwC/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/GOrX0plAnKlhr4AxTK7K/boxView",
+    "placeholders": [
+      {
+        "width": 470,
+        "height": 470,
+        "angle": 0,
+        "startPoint": [
+          641,
+          148
+        ],
+        "type": "image",
+        "area": "top",
+        "groupId": "1",
+        "id": "nZTQMdtm6Ksoj_uhVmC7u"
+      },
+      {
+        "id": "bJx9hjINJcdmcVyT8S33r",
+        "angle": 0,
+        "startPoint": [
+          1348,
+          970
+        ],
+        "type": "image",
+        "width": 470,
+        "groupId": "1",
+        "height": 470,
+        "area": "top"
+      },
+      {
+        "groupId": "1",
+        "angle": 0,
+        "area": "top",
+        "width": 470,
+        "type": "image",
+        "height": 470,
+        "id": "vOnQoalZe95Pxa8zDLy2L",
+        "startPoint": [
+          239,
+          1388
+        ]
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "XXJ1B443bEB1Uz3NQb5u",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Girl astronaut",
+    "sku": "CTM-GIA",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/XXJ1B443bEB1Uz3NQb5u/thumbnail",
+    "createdAt": 1604393254031,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/lcAIdGhssDsmO9jmNO1T/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/qWXyTLvEozKfLSg8VhoP/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "groupId": "1",
+        "height": 470,
+        "startPoint": [
+          641,
+          148
+        ],
+        "type": "image",
+        "area": "top",
+        "width": 470,
+        "id": "OqmN7fndmIlKR7IPQz0dW"
+      },
+      {
+        "type": "image",
+        "width": 470,
+        "area": "top",
+        "angle": 0,
+        "height": 470,
+        "id": "ZbodW9MlFKUPOVq3tDxZo",
+        "groupId": "1",
+        "startPoint": [
+          1348,
+          970
+        ]
+      },
+      {
+        "height": 470,
+        "angle": 0,
+        "groupId": "1",
+        "width": 470,
+        "id": "E7bgqGgfS0vaykp9X6hyB",
+        "area": "top",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "type": "image"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "Y5WYYlYVFfWjWct9CqfK",
+    "type": "pattern",
+    "category": "Baby",
+    "price": 2,
+    "name": "Soft baby",
+    "sku": "CTM-SOB",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Y5WYYlYVFfWjWct9CqfK/thumbnail",
+    "createdAt": 1604394946317,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/d6ewP74lmDPNIvEmIcVN/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/om0yZttZDavQylZNMu7b/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "id": "8jF7ttFgHiz4ONovddOKk",
+        "width": 470,
+        "type": "image",
+        "height": 470,
+        "startPoint": [
+          641,
+          148
+        ],
+        "groupId": "1",
+        "angle": 0
+      },
+      {
+        "area": "top",
+        "type": "image",
+        "height": 470,
+        "width": 470,
+        "startPoint": [
+          1348,
+          970
+        ],
+        "id": "6ultgD2H1spqrgcH_PSjV",
+        "groupId": "1",
+        "angle": 0
+      },
+      {
+        "groupId": "1",
+        "width": 470,
+        "area": "top",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "height": 470,
+        "id": "A-eKWBrJJPtp1KFMqb-Fn",
+        "type": "image",
+        "angle": 0
+      }
+    ],
+    "width": 2000,
+    "height": 1999,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "YGCtmSZ46l86lKt6vM6V",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Little Princess",
+    "sku": "CTM-LIP",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/YGCtmSZ46l86lKt6vM6V/thumbnail",
+    "createdAt": 1604318413857,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/hyi8ARUy5VDA7m65jAzz/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/vuxvUNMWQ8W1xjAySuEi/boxView",
+    "placeholders": [
+      {
+        "startPoint": [
+          641,
+          148
+        ],
+        "area": "top",
+        "id": "DWmeFtjPJqyn8jhoRSuHs",
+        "groupId": "1",
+        "width": 470,
+        "type": "image",
+        "angle": 0,
+        "height": 470
+      },
+      {
+        "width": 470,
+        "angle": 0,
+        "startPoint": [
+          1348,
+          863
+        ],
+        "height": 470,
+        "type": "image",
+        "id": "mylr0lRF9JXQ_l_58_7ti",
+        "groupId": "1",
+        "area": "top"
+      },
+      {
+        "height": 470,
+        "id": "W8xh5a4Oh8VdRBbPNlvLb",
+        "angle": 0,
+        "area": "top",
+        "width": 470,
+        "groupId": "1",
+        "type": "image",
+        "startPoint": [
+          239,
+          1388
+        ]
+      }
+    ],
+    "width": 2000,
+    "height": 2001,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "aXe1wY3YUZlIXar9EnP7",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Butterflies",
+    "sku": "CTM-BUT",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/aXe1wY3YUZlIXar9EnP7/thumbnail",
+    "createdAt": 1604049132060,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/pO7FbpxRy0tGCBp2oZm3/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/yiO1APco3pvcXmU7LSjU/boxView",
+    "placeholders": [
+      {
+        "height": 667,
+        "width": 667,
+        "id": "iAZSb6CgUYIbtE3BLBKbh",
+        "startPoint": [
+          0,
+          0
+        ],
+        "angle": 0,
+        "area": "top",
+        "type": "image",
+        "groupId": "1"
+      },
+      {
+        "groupId": "2",
+        "type": "image",
+        "area": "top",
+        "height": 669,
+        "width": 669,
+        "id": "b4aLqhMVoQAus-AII_Fgc",
+        "startPoint": [
+          666,
+          666
+        ],
+        "angle": 0
+      },
+      {
+        "id": "DxqrL3tbXjRm6W7QK7mNG",
+        "angle": 0,
+        "startPoint": [
+          1333,
+          1333
+        ],
+        "width": 667,
+        "area": "top",
+        "type": "image",
+        "groupId": "3",
+        "height": 667
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "cRSJVPWp5mdoy4eesZWU",
+    "type": "pattern",
+    "category": "School",
+    "price": 2,
+    "name": "School Animals",
+    "sku": "CTM-SCA",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/cRSJVPWp5mdoy4eesZWU/thumbnail",
+    "createdAt": 1604051539012,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/0xUNNpArBMkN77E8gpMt/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/7CkRWbUYJ3JjMjeLpL9s/boxView",
+    "placeholders": [
+      {
+        "groupId": "1",
+        "area": "top",
+        "width": 667,
+        "angle": 0,
+        "startPoint": [
+          0,
+          0
+        ],
+        "height": 667,
+        "id": "NO-odp2SMEq-EzLVeTkSN",
+        "type": "image"
+      },
+      {
+        "angle": 0,
+        "area": "top",
+        "startPoint": [
+          666,
+          666
+        ],
+        "width": 669,
+        "groupId": "2",
+        "id": "cf9wfnxVTcCFQ56NL-IDs",
+        "height": 669,
+        "type": "image"
+      },
+      {
+        "startPoint": [
+          1333,
+          1333
+        ],
+        "angle": 0,
+        "id": "97DeGW1QOZNtAP1Qnv3GJ",
+        "area": "top",
+        "type": "image",
+        "height": 667,
+        "groupId": "3",
+        "width": 667
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "cvDKVKLAra81l3vdN8RA",
+    "type": "pattern",
+    "category": "Fun",
+    "price": 2,
+    "name": "Beach",
+    "sku": "CTM-BEA",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/cvDKVKLAra81l3vdN8RA/thumbnail",
+    "createdAt": 1604394426143,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/TXMbyi9K3dBg6yNLkWkj/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/c1ajGzIBzOaDpA1rXSRi/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "groupId": "1",
+        "type": "image",
+        "width": 470,
+        "id": "7gxBU3WFUA-R4cfayd4Yk",
+        "height": 470,
+        "startPoint": [
+          641,
+          148
+        ],
+        "angle": 0
+      },
+      {
+        "area": "top",
+        "id": "ywKMpGpWb2CAvl_cAkGMt",
+        "type": "image",
+        "angle": 0,
+        "groupId": "1",
+        "height": 470,
+        "startPoint": [
+          1348,
+          970
+        ],
+        "width": 470
+      },
+      {
+        "startPoint": [
+          239,
+          1388
+        ],
+        "groupId": "1",
+        "width": 470,
+        "angle": 0,
+        "type": "image",
+        "height": 470,
+        "id": "DU4a0s-x465pqVXgfbbYl",
+        "area": "top"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "d7FqwBeFCU66xlAzLp34",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Girly unicorn",
+    "sku": "CTM-GUNI",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/d7FqwBeFCU66xlAzLp34/thumbnail",
+    "createdAt": 1604406999667,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/AyQkdG6InbwagRkHKmot/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Q2rAZUxA4uxCtJbR6dLK/boxView",
+    "placeholders": [
+      {
+        "groupId": "1",
+        "height": 470,
+        "id": "K_jAQviKcOXXfhNaDxe-N",
+        "type": "image",
+        "width": 470,
+        "startPoint": [
+          641,
+          148
+        ],
+        "angle": 0,
+        "area": "top"
+      },
+      {
+        "area": "top",
+        "type": "image",
+        "groupId": "1",
+        "id": "wzNb5kWPmvIAcC8Z53QET",
+        "width": 470,
+        "angle": 0,
+        "height": 470,
+        "startPoint": [
+          1348,
+          970
+        ]
+      },
+      {
+        "width": 470,
+        "area": "top",
+        "height": 470,
+        "angle": 0,
+        "id": "Tc6kDQBbS3bhpZJSsmGxT",
+        "type": "image",
+        "groupId": "1",
+        "startPoint": [
+          239,
+          1388
+        ]
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "dMC2PRVBRpPyDNWWZ0v8",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Cat hearts",
+    "sku": "CTM-CAH",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/dMC2PRVBRpPyDNWWZ0v8/thumbnail",
+    "createdAt": 1604394268468,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/hXJo07rC74s2KX8pildX/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/WNj2wH0Np4JOI768pZyb/boxView",
+    "placeholders": [
+      {
+        "type": "image",
+        "groupId": "1",
+        "angle": 0,
+        "area": "top",
+        "startPoint": [
+          641,
+          148
+        ],
+        "id": "6ooNQu5CwNncBWBMPpkC2",
+        "width": 470,
+        "height": 470
+      },
+      {
+        "angle": 0,
+        "groupId": "1",
+        "height": 470,
+        "startPoint": [
+          1348,
+          863
+        ],
+        "id": "pwGUBXsY6_kPkKStFD1fD",
+        "area": "top",
+        "type": "image",
+        "width": 470
+      },
+      {
+        "groupId": "1",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "angle": 0,
+        "width": 470,
+        "id": "IC7ulEZXitFms2uu-2zGn",
+        "area": "top",
+        "type": "image",
+        "height": 470
+      }
+    ],
+    "width": 2000,
+    "height": 2001,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "dWK2kwDceLmPOVoY9s7Y",
+    "type": "pattern",
+    "category": "Fun",
+    "price": 2,
+    "name": "Planets",
+    "sku": "CTM-PLA",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/dWK2kwDceLmPOVoY9s7Y/thumbnail",
+    "createdAt": 1604395787412,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/qmuW24gwVicEccxCMrGv/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/5JNQBkCTEKV0ReLdRkft/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "width": 470,
+        "height": 470,
+        "groupId": "1",
+        "angle": 0,
+        "type": "image",
+        "id": "TXqC0nfztNQbnTvGS3z5K",
+        "startPoint": [
+          641,
+          148
+        ]
+      },
+      {
+        "height": 470,
+        "area": "top",
+        "width": 470,
+        "id": "qxq3tz4_jR7Zy7q_ojDfr",
+        "angle": 0,
+        "type": "image",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "groupId": "1"
+      },
+      {
+        "type": "image",
+        "width": 470,
+        "angle": 0,
+        "area": "top",
+        "id": "7v14hZCz2nmUNL_SvzcyE",
+        "height": 470,
+        "groupId": "1",
+        "startPoint": [
+          239,
+          1388
+        ]
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "dg4n6MW16TCHEer6148k",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Cat Tiles",
+    "sku": "CTM-CATI",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/dg4n6MW16TCHEer6148k/thumbnail",
+    "createdAt": 1604049235570,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/GMPiCuVBS5UBoeU91lzp/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/jdNtFegVERNcWerAanmy/boxView",
+    "placeholders": [
+      {
+        "height": 667,
+        "type": "image",
+        "startPoint": [
+          0,
+          0
+        ],
+        "area": "top",
+        "groupId": "1",
+        "angle": 0,
+        "id": "YCUcc8YaEKAX99utZHuZf",
+        "width": 667
+      },
+      {
+        "width": 669,
+        "startPoint": [
+          666,
+          666
+        ],
+        "type": "image",
+        "height": 669,
+        "id": "4PMzqmWRKdHpLmZLoTO4S",
+        "angle": 0,
+        "area": "top",
+        "groupId": "2"
+      },
+      {
+        "width": 667,
+        "height": 667,
+        "angle": 0,
+        "type": "image",
+        "startPoint": [
+          1333,
+          1333
+        ],
+        "groupId": "3",
+        "id": "-Fis_wV8WDjozYWyvZwi6",
+        "area": "top"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "e30c0cBYmEUsljKb8Jj2",
+    "type": "pattern",
+    "category": "Boys",
+    "price": 2,
+    "name": "Sports",
+    "sku": "CTM-SPO",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/e30c0cBYmEUsljKb8Jj2/thumbnail",
+    "createdAt": 1604056847072,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Vu2N1zhcvW67kbPme6Fm/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/jXHRynKToecD2n5hNAl6/boxView",
+    "placeholders": [
+      {
+        "startPoint": [
+          12,
+          12
+        ],
+        "type": "image",
+        "width": 650,
+        "area": "top",
+        "height": 650,
+        "groupId": "1",
+        "id": "NR6A4kInITf4VoebsPcFO",
+        "angle": 0
+      },
+      {
+        "groupId": "2",
+        "height": 650,
+        "startPoint": [
+          687,
+          673
+        ],
+        "width": 650,
+        "angle": 0,
+        "area": "top",
+        "type": "image",
+        "id": "Asfmu7EhRU_Uu2ofS9TCe"
+      },
+      {
+        "startPoint": [
+          1345,
+          1345
+        ],
+        "area": "top",
+        "type": "image",
+        "angle": 0,
+        "height": 650,
+        "id": "UAaxTccJbfpnA1C5I7vRf",
+        "width": 650,
+        "groupId": "3"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "e9UvZGt4MgWOAFaysLiu",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "Blue birthday",
+    "sku": "CTM-BBD",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/e9UvZGt4MgWOAFaysLiu/thumbnail",
+    "createdAt": 1604319079698,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/haZktppie2xrstSFzWwI/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/OCreXFIl7igsJPd8voDl/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "id": "rY73F-syPqULff30Hj2QG",
+        "angle": 0,
+        "groupId": "1",
+        "height": 470,
+        "type": "image",
+        "width": 470,
+        "startPoint": [
+          641,
+          148
+        ]
+      },
+      {
+        "groupId": "1",
+        "width": 470,
+        "type": "image",
+        "angle": 0,
+        "startPoint": [
+          1348,
+          863
+        ],
+        "id": "5DrNIIHX_ZJqV9z5VaZ_W",
+        "area": "top",
+        "height": 470
+      },
+      {
+        "height": 470,
+        "width": 470,
+        "id": "WTR49PvLrdIaPpijlC5Yh",
+        "groupId": "1",
+        "area": "top",
+        "type": "image",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "angle": 0
+      }
+    ],
+    "width": 2000,
+    "height": 1999,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "f848Up933fzwhWcy9lk4",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Fishy Fish",
+    "sku": "CTM-FIF",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/f848Up933fzwhWcy9lk4/thumbnail",
+    "createdAt": 1604393346007,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/OwkxKQqurP7SC8QTp8qC/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/F5O54qNOlSmFEec1bwVg/boxView",
+    "placeholders": [
+      {
+        "type": "image",
+        "id": "MZHL7zikIWwSPY-XDKgfh",
+        "angle": 0,
+        "groupId": "1",
+        "height": 470,
+        "area": "top",
+        "startPoint": [
+          641,
+          148
+        ],
+        "width": 470
+      },
+      {
+        "angle": 0,
+        "groupId": "1",
+        "type": "image",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "id": "wYtSi75C1D6JvnBfnRMKU",
+        "area": "top",
+        "width": 470,
+        "height": 470
+      },
+      {
+        "area": "top",
+        "height": 470,
+        "id": "EkscxUzr11ggZnXH720GR",
+        "width": 470,
+        "groupId": "1",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "type": "image",
+        "angle": 0
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "furfhJhjiaF4gzOZTz9b",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Flamingo dance",
+    "sku": "CTM-FLD",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/furfhJhjiaF4gzOZTz9b/thumbnail",
+    "createdAt": 1604393449456,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/2FyDfBsz8xlOBKgxLyxI/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/FbZ8emb9a3GQLDNBEpOm/boxView",
+    "placeholders": [
+      {
+        "id": "keIS8dTM26yU-A4zyJndI",
+        "startPoint": [
+          641,
+          148
+        ],
+        "area": "top",
+        "width": 470,
+        "groupId": "1",
+        "height": 470,
+        "type": "image",
+        "angle": 0
+      },
+      {
+        "height": 470,
+        "groupId": "1",
+        "id": "j0ZknZkebX3K8hCJ0FfFM",
+        "type": "image",
+        "width": 470,
+        "angle": 0,
+        "startPoint": [
+          1348,
+          970
+        ],
+        "area": "top"
+      },
+      {
+        "id": "vA8gpF2WtoA0psWW0-5S3",
+        "groupId": "1",
+        "width": 470,
+        "height": 470,
+        "angle": 0,
+        "area": "top",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "type": "image"
+      }
+    ],
+    "width": 2000,
+    "height": 1999,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "gSpBN9aQ6lhdnoHIowyy",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Friends from afar",
+    "sku": "CTM-FFA",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/gSpBN9aQ6lhdnoHIowyy/thumbnail",
+    "createdAt": 1604406861964,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/ux8isZ6PkBYQv9TYDLUX/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/8lX5C1SXLQlknqXEZoaO/boxView",
+    "placeholders": [
+      {
+        "type": "image",
+        "width": 470,
+        "id": "vk6dHyqOzl50O4GTF-tOT",
+        "startPoint": [
+          641,
+          148
+        ],
+        "area": "top",
+        "angle": 0,
+        "groupId": "1",
+        "height": 470
+      },
+      {
+        "width": 470,
+        "height": 470,
+        "groupId": "1",
+        "type": "image",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "angle": 0,
+        "area": "top",
+        "id": "kjiQDy1821RqXPHR7p6NO"
+      },
+      {
+        "type": "image",
+        "angle": 0,
+        "id": "nWxxRpKQHtowCz9IQStcm",
+        "groupId": "1",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "height": 470,
+        "width": 470,
+        "area": "top"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "h5R0V5m4E5HnSBBA82qr",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "Birthday in the sky",
+    "sku": "CTM-BDK",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/h5R0V5m4E5HnSBBA82qr/thumbnail",
+    "createdAt": 1604318853760,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/kn46RzHMTHrw1jwATsFC/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/kOJbvRsHUlJQWbFXef87/boxView",
+    "placeholders": [
+      {
+        "height": 470,
+        "groupId": "1",
+        "width": 470,
+        "id": "aCSTCZtrlNdAy8bPweyKG",
+        "angle": 0,
+        "startPoint": [
+          641,
+          148
+        ],
+        "area": "top",
+        "type": "image"
+      },
+      {
+        "height": 470,
+        "groupId": "1",
+        "area": "top",
+        "angle": 0,
+        "type": "image",
+        "id": "JiQA_DS41k5sjA-D7rvwp",
+        "startPoint": [
+          1348,
+          863
+        ],
+        "width": 470
+      },
+      {
+        "id": "I1gZDzDMQeNjo64YK72J6",
+        "height": 470,
+        "startPoint": [
+          239,
+          1388
+        ],
+        "area": "top",
+        "width": 470,
+        "groupId": "1",
+        "angle": 0,
+        "type": "image"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "h7VpMDMazKKLI8D0NKSI",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Kitties",
+    "sku": "CTM-KITS",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/h7VpMDMazKKLI8D0NKSI/thumbnail",
+    "createdAt": 1604396154781,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/WuCpcyKrXAe1BYiDZR4q/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/xHM7p45tZHvu4eXX0u6r/boxView",
+    "placeholders": [
+      {
+        "id": "KfILcNQ5GRupA9DApUOae",
+        "area": "top",
+        "type": "image",
+        "startPoint": [
+          641,
+          148
+        ],
+        "angle": 0,
+        "height": 470,
+        "width": 470,
+        "groupId": "1"
+      },
+      {
+        "id": "SMx44q2IKTq8hSpCw7nuq",
+        "area": "top",
+        "groupId": "1",
+        "type": "image",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "angle": 0,
+        "width": 470,
+        "height": 470
+      },
+      {
+        "type": "image",
+        "height": 470,
+        "area": "top",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "id": "8lBwvM-LqQ-qr1QhNK3Bk",
+        "width": 470,
+        "angle": 0,
+        "groupId": "1"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "iCtgjMkI1WAKhEg9PaeI",
+    "type": "pattern",
+    "category": "Baby",
+    "price": 2,
+    "name": "Baby",
+    "sku": "CTM-BABY",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/iCtgjMkI1WAKhEg9PaeI/thumbnail",
+    "createdAt": 1604047725503,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/y6m4vQqtkOeCY5kSJYGV/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/gZF6ccAE7meylY4pyLyV/boxView",
+    "placeholders": [
+      {
+        "type": "image",
+        "height": 650,
+        "startPoint": [
+          13,
+          13
+        ],
+        "id": "Ls3pxO_S_WKh5DCSWwb8g",
+        "groupId": "1",
+        "area": "top",
+        "width": 650,
+        "angle": 0
+      },
+      {
+        "type": "image",
+        "groupId": "2",
+        "angle": 0,
+        "height": 650,
+        "area": "top",
+        "startPoint": [
+          687,
+          673
+        ],
+        "width": 650,
+        "id": "RMYTugF8_I_qPY7QyI8Yn"
+      },
+      {
+        "type": "image",
+        "startPoint": [
+          1345,
+          1345
+        ],
+        "area": "top",
+        "groupId": "3",
+        "id": "0LUWWssVFz8SBJRJN-mj5",
+        "height": 650,
+        "angle": 0,
+        "width": 650
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "isIEt2erSRQCRDQO2txD",
+    "type": "pattern",
+    "category": "Baby",
+    "price": 2,
+    "name": "Baby animal faces",
+    "sku": "CTM-BAF",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/isIEt2erSRQCRDQO2txD/thumbnail",
+    "createdAt": 1604407134875,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/couepRJHd1QAx4Z1AbHx/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/5LT52PUeN6uVHkMSrgLR/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "groupId": "1",
+        "id": "AuHUlwyZ8sEvKjMcpR_A5",
+        "width": 667,
+        "height": 667,
+        "angle": 0,
+        "type": "image",
+        "startPoint": [
+          0,
+          0
+        ]
+      },
+      {
+        "area": "top",
+        "id": "NnabnuVgIbrCtkjY5LBB8",
+        "angle": 0,
+        "groupId": "2",
+        "width": 669,
+        "startPoint": [
+          666,
+          666
+        ],
+        "height": 669,
+        "type": "image"
+      },
+      {
+        "width": 667,
+        "id": "g5jNaq2DD4qOcNpuQbNJa",
+        "groupId": "3",
+        "type": "image",
+        "area": "top",
+        "angle": 0,
+        "startPoint": [
+          1333,
+          1333
+        ],
+        "height": 667
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "lIeW0ihhp2V8Zd4JfC04",
+    "type": "pattern",
+    "category": "Baby",
+    "price": 2,
+    "name": "Baby toys",
+    "sku": "CTM-BAT",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/lIeW0ihhp2V8Zd4JfC04/thumbnail",
+    "createdAt": 1604406368088,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/htLIRofwVfKWHAuKEl9z/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/xNDCA5P8Gakym5KVgtNB/boxView",
+    "placeholders": [
+      {
+        "width": 470,
+        "height": 470,
+        "angle": 0,
+        "area": "top",
+        "groupId": "1",
+        "type": "image",
+        "id": "otS2vSsHFHX3b-D5G8z7a",
+        "startPoint": [
+          641,
+          148
+        ]
+      },
+      {
+        "type": "image",
+        "groupId": "1",
+        "width": 470,
+        "area": "top",
+        "id": "8H5K0O2wCA_WKPEz1BOJc",
+        "height": 470,
+        "startPoint": [
+          1348,
+          970
+        ],
+        "angle": 0
+      },
+      {
+        "height": 470,
+        "type": "image",
+        "angle": 0,
+        "startPoint": [
+          239,
+          1388
+        ],
+        "width": 470,
+        "id": "pHBbd5um3udD7um4YEzl4",
+        "groupId": "1",
+        "area": "top"
+      }
+    ],
+    "width": 2000,
+    "height": 1999,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "lQyyN2lpy0ZsZVWIectE",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Ballerina cats",
+    "sku": "CTM-BALC",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/lQyyN2lpy0ZsZVWIectE/thumbnail",
+    "createdAt": 1604396433038,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/4cec2Ld8O1ELwD89frrd/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/H5GZTQPaFSLTRM8IF3C1/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "angle": 0,
+        "type": "image",
+        "height": 470,
+        "width": 470,
+        "id": "GKQjYiiCNKDo6Ur_b5cxe",
+        "groupId": "1",
+        "startPoint": [
+          641,
+          148
+        ]
+      },
+      {
+        "angle": 0,
+        "groupId": "1",
+        "height": 470,
+        "width": 470,
+        "id": "FlCHquKGD4i7BOpmPChvx",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "area": "top",
+        "type": "image"
+      },
+      {
+        "type": "image",
+        "groupId": "1",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "height": 470,
+        "id": "SA15uzYMH-JnRyjRmWRtt",
+        "area": "top",
+        "angle": 0,
+        "width": 470
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "mcQJkOyTlyvD4SLbhdvD",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Fish",
+    "sku": "CTM-FISH",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/mcQJkOyTlyvD4SLbhdvD/thumbnail",
+    "createdAt": 1604049658304,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/zv2icdFLslKVbYBmjYCj/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/4IxGlPYn8GSoDpMbk5hU/boxView",
+    "placeholders": [
+      {
+        "id": "TkWTUCsZ-raGoUnDYXX80",
+        "angle": 0,
+        "type": "image",
+        "startPoint": [
+          13,
+          13
+        ],
+        "area": "top",
+        "groupId": "1",
+        "width": 650,
+        "height": 650
+      },
+      {
+        "startPoint": [
+          687,
+          673
+        ],
+        "area": "top",
+        "angle": 0,
+        "type": "image",
+        "id": "oxgHlO3KVuAb2gwMHXTfs",
+        "height": 650,
+        "groupId": "2",
+        "width": 650
+      },
+      {
+        "groupId": "3",
+        "area": "top",
+        "angle": 0,
+        "type": "image",
+        "id": "Ifvo1N9uSH2sgbX4HnRZv",
+        "height": 650,
+        "startPoint": [
+          1345,
+          1345
+        ],
+        "width": 650
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "nLFGAfD2clebMM1Rbcri",
+    "type": "pattern",
+    "category": "Fun",
+    "price": 2,
+    "name": "Love balloons",
+    "sku": "CTM-LOB",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/nLFGAfD2clebMM1Rbcri/thumbnail",
+    "createdAt": 1604395941686,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Q87vMpZAAdsGrbOVdsU6/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/jKAsMRaXr3yLudos5anW/boxView",
+    "placeholders": [
+      {
+        "type": "image",
+        "width": 470,
+        "angle": 0,
+        "groupId": "1",
+        "startPoint": [
+          641,
+          148
+        ],
+        "id": "UYV4l-4MQ7VQdFcmxFExy",
+        "area": "top",
+        "height": 470
+      },
+      {
+        "startPoint": [
+          1348,
+          970
+        ],
+        "width": 470,
+        "type": "image",
+        "angle": 0,
+        "groupId": "1",
+        "area": "top",
+        "id": "9lsIKub3rUW9kuMQ0Szol",
+        "height": 470
+      },
+      {
+        "angle": 0,
+        "startPoint": [
+          239,
+          1388
+        ],
+        "id": "JfC6z2NIrP2e3Pk10Phy1",
+        "area": "top",
+        "groupId": "1",
+        "height": 470,
+        "width": 470,
+        "type": "image"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "ooAcHzYCSJNMtSoVQyWl",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Cat summer",
+    "sku": "CTM-CAS",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/ooAcHzYCSJNMtSoVQyWl/thumbnail",
+    "createdAt": 1604394348683,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/t6Zk0OBIMuRA8dBiy7EU/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/32z8qLiwzrjfj6cZlLym/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "startPoint": [
+          641,
+          148
+        ],
+        "type": "image",
+        "id": "kGZOH4F_hw_mt8d2Wzgsb",
+        "width": 470,
+        "height": 470,
+        "area": "top",
+        "groupId": "1"
+      },
+      {
+        "groupId": "1",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "width": 470,
+        "height": 470,
+        "angle": 0,
+        "area": "top",
+        "type": "image",
+        "id": "Km6RbdJe0cO4PHeuibor5"
+      },
+      {
+        "groupId": "1",
+        "height": 470,
+        "id": "G3fE1dYf1psetn0zEJsA3",
+        "width": 470,
+        "area": "top",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "angle": 0,
+        "type": "image"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "pdzLW4a3CaDudD9uzv6R",
+    "type": "pattern",
+    "category": "Baby",
+    "price": 2,
+    "name": "Baby boy",
+    "sku": "CTM-BBO",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/pdzLW4a3CaDudD9uzv6R/thumbnail",
+    "createdAt": 1604345907916,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/V2tR4Pl5zmZd9zWxIN5a/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/bhiTalmRyo2pNyFWZsc3/boxView",
+    "placeholders": [
+      {
+        "height": 470,
+        "type": "image",
+        "id": "gFqvcJZBTvXkjJYN0Ujgp",
+        "width": 470,
+        "angle": 0,
+        "area": "top",
+        "startPoint": [
+          641,
+          148
+        ],
+        "groupId": "1"
+      },
+      {
+        "type": "image",
+        "id": "LO9-FlHYk07fZQHQnuxvR",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "area": "top",
+        "groupId": "1",
+        "height": 470,
+        "angle": 0,
+        "width": 470
+      },
+      {
+        "area": "top",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "groupId": "1",
+        "type": "image",
+        "height": 470,
+        "angle": 0,
+        "id": "9AicdCJItWTwmmII9SkU9",
+        "width": 470
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "pnWO1Jk8GzA1d5IBOR7Q",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "Green Birthday",
+    "sku": "CTM-GRB",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/pnWO1Jk8GzA1d5IBOR7Q/thumbnail",
+    "createdAt": 1604312548339,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/euSJ1LU5jHIOSdYD741O/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/Qqj7ApFoFNwhTV0Ib29b/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "angle": 0,
+        "width": 470,
+        "height": 470,
+        "id": "oHdXaqY1sn7qitQkzR--K",
+        "groupId": "1",
+        "startPoint": [
+          641,
+          148
+        ],
+        "type": "image"
+      },
+      {
+        "height": 470,
+        "groupId": "1",
+        "id": "x4s2L6O1ga4_lrPFc4tkP",
+        "angle": 0,
+        "area": "top",
+        "type": "image",
+        "width": 470,
+        "startPoint": [
+          1348,
+          863
+        ]
+      },
+      {
+        "id": "iovm0FPL9ZeMOYvZQn6Ff",
+        "angle": 0,
+        "width": 470,
+        "groupId": "1",
+        "height": 470,
+        "area": "top",
+        "type": "image",
+        "startPoint": [
+          239,
+          1388
+        ]
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "qXgSODi9b1bSgWm9BCgG",
+    "type": "pattern",
+    "category": "Animals",
+    "price": 2,
+    "name": "Bugs",
+    "sku": "CTM-BUGS",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/qXgSODi9b1bSgWm9BCgG/thumbnail",
+    "createdAt": 1604049073182,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/5YhSrCeOUUigmS4MBRuW/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/DUTUdwUZwivayW9fh5xU/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "id": "Dbr_OBozJ1bN1S-h-NdUR",
+        "angle": 0,
+        "width": 667,
+        "startPoint": [
+          0,
+          0
+        ],
+        "height": 667,
+        "groupId": "1",
+        "type": "image"
+      },
+      {
+        "width": 669,
+        "startPoint": [
+          666,
+          666
+        ],
+        "angle": 0,
+        "type": "image",
+        "area": "top",
+        "id": "b29YqkYvXmCYWEtc_b_CN",
+        "groupId": "2",
+        "height": 669
+      },
+      {
+        "type": "image",
+        "angle": 0,
+        "area": "top",
+        "id": "T8LzEJqZyHe14Mnspv0Qn",
+        "height": 667,
+        "startPoint": [
+          1333,
+          1333
+        ],
+        "width": 667,
+        "groupId": "3"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "s7vb5mjtLZSEiwtFkbYs",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Dolls",
+    "sku": "CTM-Dolls",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/s7vb5mjtLZSEiwtFkbYs/thumbnail",
+    "createdAt": 1604409703520,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/xxuKPpNDOABP5MIA21Zz/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/tVAD4gg12KZPVmVZx5Fb/boxView",
+    "placeholders": [
+      {
+        "area": "top",
+        "id": "RDs2fEX7zkBvNYmmoU0Xb",
+        "angle": 0,
+        "width": 470,
+        "groupId": "1",
+        "height": 470,
+        "type": "image",
+        "startPoint": [
+          419,
+          417
+        ]
+      },
+      {
+        "angle": 0,
+        "type": "image",
+        "groupId": "1",
+        "area": "top",
+        "height": 470,
+        "id": "LdsHeQoZOc1O5SEp12y17",
+        "width": 470,
+        "startPoint": [
+          1758,
+          132
+        ]
+      },
+      {
+        "id": "Z2ohpNungWGPl0hsk5XAq",
+        "area": "top",
+        "groupId": "1",
+        "height": 470,
+        "type": "image",
+        "startPoint": [
+          428,
+          1785
+        ],
+        "angle": 0,
+        "width": 470
+      },
+      {
+        "area": "top",
+        "angle": 0,
+        "groupId": "1",
+        "id": "4PKA7l7ISvjlcE4sMBSuc",
+        "type": "image",
+        "startPoint": [
+          1290,
+          1050
+        ],
+        "width": 470,
+        "height": 470
+      },
+      {
+        "height": 470,
+        "type": "image",
+        "width": 470,
+        "id": "R0T_TsdrQ46s62Yyr8oqP",
+        "angle": 0,
+        "area": "top",
+        "groupId": "1",
+        "startPoint": [
+          1483,
+          2075
+        ]
+      },
+      {
+        "area": "top",
+        "height": 470,
+        "angle": 0,
+        "width": 470,
+        "type": "image",
+        "id": "SsmbDCwwQh1ypww2snaRJ",
+        "startPoint": [
+          2275,
+          1376
+        ],
+        "groupId": "1"
+      }
+    ],
+    "width": 3000,
+    "height": 3000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "sRoaOkv1qn4fBU7VKeOY",
+    "type": "pattern",
+    "category": "Boys",
+    "price": 2,
+    "name": "Cars",
+    "sku": "CTM-CARS",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/sRoaOkv1qn4fBU7VKeOY/thumbnail",
+    "createdAt": 1604394027520,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/JDMe9EwRdcTOhwg025No/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/oGshOWmXdme5bVZdpqnD/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "height": 470,
+        "startPoint": [
+          641,
+          148
+        ],
+        "groupId": "1",
+        "area": "top",
+        "width": 470,
+        "id": "KOgRYZ9EuXWMJotgwY90S",
+        "type": "image"
+      },
+      {
+        "id": "wuVirIIym7wLl4a01RsWe",
+        "type": "image",
+        "height": 470,
+        "startPoint": [
+          1348,
+          863
+        ],
+        "angle": 0,
+        "area": "top",
+        "groupId": "1",
+        "width": 470
+      },
+      {
+        "id": "fstU4kG1ev5BmaKBNf6lD",
+        "angle": 0,
+        "type": "image",
+        "height": 470,
+        "groupId": "1",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "area": "top",
+        "width": 470
+      }
+    ],
+    "width": 2000,
+    "height": 1999,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "t8qwBCgxBC4c91spF0Gd",
+    "type": "pattern",
+    "category": "Boys",
+    "price": 2,
+    "name": "Sailing sharks",
+    "sku": "CTM-SAS",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/t8qwBCgxBC4c91spF0Gd/thumbnail",
+    "createdAt": 1604394738538,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/QdJxPZbqV0lwwnJyzTsX/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/jNX1MRpOjf3eGCDGWRPM/boxView",
+    "placeholders": [
+      {
+        "id": "hnb39FWzvIYjXfKQSd-S0",
+        "width": 470,
+        "height": 470,
+        "angle": 0,
+        "type": "image",
+        "startPoint": [
+          641,
+          148
+        ],
+        "groupId": "1",
+        "area": "top"
+      },
+      {
+        "id": "90AY3LMI3ZLx3tZXovjL2",
+        "type": "image",
+        "height": 470,
+        "area": "top",
+        "groupId": "1",
+        "startPoint": [
+          1348,
+          970
+        ],
+        "angle": 0,
+        "width": 470
+      },
+      {
+        "angle": 0,
+        "type": "image",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "width": 470,
+        "id": "t6tlEnw26SuQhmw7Tgik0",
+        "height": 470,
+        "area": "top",
+        "groupId": "1"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "uKFTI6WfPZj2PbrLOzGE",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "Gifts",
+    "sku": "CTM-GIFS",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/RziOJDgDAih17qKQuqmN/thumbnail",
+    "createdAt": 1603184390601,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/sKBz13UC0ycTCMV7ppMs/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/jAtfg9gOk7ZiuVjve03Y/boxView",
+    "placeholders": [
+      {
+        "width": 599,
+        "startPoint": [
+          292,
+          212
+        ],
+        "id": "JXc8pYBXba12aWnvYKHn7",
+        "area": "top",
+        "groupId": "1",
+        "height": 736,
+        "angle": 0,
+        "type": "image"
+      },
+      {
+        "angle": 0,
+        "startPoint": [
+          1519,
+          516
+        ],
+        "id": "GoiLdHnZbaWUaFbYI7T1i",
+        "width": 659,
+        "height": 567,
+        "groupId": "2",
+        "area": "top",
+        "type": "image"
+      },
+      {
+        "groupId": "3",
+        "height": 607,
+        "angle": 0,
+        "type": "image",
+        "area": "top",
+        "startPoint": [
+          1669,
+          1751
+        ],
+        "width": 560,
+        "id": "MQrfQlRxF242UkI9Igzk9"
+      }
+    ],
+    "width": 2400,
+    "height": 2400,
+    "patternType": "normal"
+  },
+  {
+    "id": "v5nw0JUO8MPJEyC8KqhO",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "Birthday Girl",
+    "sku": "CTM-BDG",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/knQVXe91dHlpR1879rh9/thumbnail",
+    "createdAt": 1603372069987,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/bCqTDGBwIoipcomFfco6/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/n1TvHjQC0eqCnLUMXm7B/boxView",
+    "placeholders": [
+      {
+        "startPoint": [
+          664,
+          591
+        ],
+        "height": 700,
+        "type": "image",
+        "angle": 0,
+        "id": "fibQ3Ko_YYF1bs4lR__TE",
+        "width": 700,
+        "groupId": "1",
+        "area": "top"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "vYHok025La3tWyPz727J",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "Bring a gift",
+    "sku": "CTM-BRG",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/vYHok025La3tWyPz727J/thumbnail",
+    "createdAt": 1604393845385,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/GzTqP13lEO7gSi9G6Kan/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/IXMS3bdhJa4RnAbHwa0D/boxView",
+    "placeholders": [
+      {
+        "height": 470,
+        "id": "p-jGyEmFFLmt46iMI6dfo",
+        "angle": 0,
+        "type": "image",
+        "groupId": "1",
+        "startPoint": [
+          641,
+          148
+        ],
+        "width": 470,
+        "area": "top"
+      },
+      {
+        "width": 470,
+        "height": 470,
+        "type": "image",
+        "id": "o2OVpcuaLNHvaGEO0qeU9",
+        "angle": 0,
+        "groupId": "1",
+        "area": "top",
+        "startPoint": [
+          1348,
+          970
+        ]
+      },
+      {
+        "startPoint": [
+          239,
+          1388
+        ],
+        "width": 470,
+        "type": "image",
+        "area": "top",
+        "angle": 0,
+        "height": 470,
+        "id": "E1c_254azp2Bw88ZCS4oQ",
+        "groupId": "1"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "xZ8L3JUmln5ScCaOvogs",
+    "type": "pattern",
+    "category": "Fun",
+    "price": 2,
+    "name": "Hearts",
+    "sku": "CTM-HEA",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/xZ8L3JUmln5ScCaOvogs/thumbnail",
+    "createdAt": 1604396225745,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/vzYuFen9MSsfrnjPRfOr/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/1PzP6ECbncZoWs2jVPHi/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "groupId": "1",
+        "type": "image",
+        "startPoint": [
+          641,
+          148
+        ],
+        "width": 470,
+        "height": 470,
+        "id": "w9q1wF969Ut693ignN5ka",
+        "area": "top"
+      },
+      {
+        "height": 470,
+        "startPoint": [
+          1348,
+          970
+        ],
+        "groupId": "1",
+        "id": "EXAFX6MZy40zQ7HsyGWMz",
+        "angle": 0,
+        "width": 470,
+        "type": "image",
+        "area": "top"
+      },
+      {
+        "type": "image",
+        "height": 470,
+        "groupId": "1",
+        "id": "fEwy82EXvjJ8JKbfHp0G0",
+        "area": "top",
+        "startPoint": [
+          239,
+          1388
+        ],
+        "angle": 0,
+        "width": 470
+      }
+    ],
+    "width": 2000,
+    "height": 2001,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "xblC0S5DWtSxBZGKwWZG",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "Birthday Collage",
+    "sku": "CTM-BDC",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/xblC0S5DWtSxBZGKwWZG/thumbnail",
+    "createdAt": 1604048625435,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/fed4aEtm30x0k3CmwrcT/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/gNBfoxKdmTXQqV0dmMjK/boxView",
+    "placeholders": [
+      {
+        "angle": 0,
+        "groupId": "1",
+        "id": "ofEb34XqUXik_y5TJLnX7",
+        "area": "top",
+        "startPoint": [
+          0,
+          0
+        ],
+        "height": 674,
+        "type": "image",
+        "width": 666
+      },
+      {
+        "id": "27far30d4d3ThAfqyup0y",
+        "type": "image",
+        "startPoint": [
+          659,
+          662
+        ],
+        "height": 680,
+        "area": "top",
+        "angle": 0,
+        "groupId": "2",
+        "width": 672
+      },
+      {
+        "angle": 0,
+        "type": "image",
+        "area": "top",
+        "startPoint": [
+          1331,
+          1333
+        ],
+        "width": 672,
+        "height": 680,
+        "id": "zmdhHlrgkLxM8B2P7_H12",
+        "groupId": "3"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "xfO3A8m7znxmvXTAN1cs",
+    "type": "pattern",
+    "category": "Girls",
+    "price": 2,
+    "name": "Supergirl",
+    "sku": "CTM-SUPG",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/W2gtRe3VPqFJIWA4QS2K/thumbnail",
+    "createdAt": 1603185103860,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/JGuiiJAkTkEPuDYP3KrY/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/MButWJGdqbaB9xSOPzu9/boxView",
+    "placeholders": [
+      {
+        "height": 470,
+        "type": "image",
+        "id": "68x-S5hV2i5pF0PXURwq0",
+        "angle": 0,
+        "startPoint": [
+          586,
+          825
+        ],
+        "groupId": "1",
+        "area": "top",
+        "width": 470
+      },
+      {
+        "type": "image",
+        "id": "sHhbCdxDLEHTaqMGCPfGp",
+        "angle": 0,
+        "groupId": "1",
+        "width": 470,
+        "height": 470,
+        "area": "top",
+        "startPoint": [
+          3098,
+          417
+        ]
+      },
+      {
+        "groupId": "1",
+        "width": 470,
+        "id": "oCSHWAzr-qqd5upetNpIX",
+        "angle": 0,
+        "type": "image",
+        "startPoint": [
+          1855,
+          1525
+        ],
+        "height": 470,
+        "area": "top"
+      },
+      {
+        "id": "nPaYT6_YpZt1sWJrFwTIN",
+        "angle": 0,
+        "width": 470,
+        "height": 470,
+        "startPoint": [
+          651,
+          2655
+        ],
+        "area": "top",
+        "type": "image",
+        "groupId": "1"
+      },
+      {
+        "groupId": "1",
+        "width": 470,
+        "type": "image",
+        "id": "X1v0YzY2F4-EGlVE0cc23",
+        "angle": 0,
+        "startPoint": [
+          2947,
+          2484
+        ],
+        "area": "top",
+        "height": 470
+      }
+    ],
+    "width": 4000,
+    "height": 4000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "yi51XiOyNhsDYcHsnOWb",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "Bring a friend animal",
+    "sku": "CTM-BFA",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/yi51XiOyNhsDYcHsnOWb/thumbnail",
+    "createdAt": 1604407202048,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/OanK2uWZlv4PdA6Y8gUB/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/CIYaNSfzlEelEgS9SvKU/boxView",
+    "placeholders": [
+      {
+        "groupId": "1",
+        "startPoint": [
+          0,
+          0
+        ],
+        "type": "image",
+        "height": 667,
+        "angle": 0,
+        "id": "a3zbFpnJvOVyHLB8uD4S-",
+        "area": "top",
+        "width": 667
+      },
+      {
+        "id": "8niS4uLRWIj742PiI2Stw",
+        "startPoint": [
+          666,
+          666
+        ],
+        "type": "image",
+        "area": "top",
+        "angle": 0,
+        "groupId": "2",
+        "width": 669,
+        "height": 669
+      },
+      {
+        "startPoint": [
+          1333,
+          1333
+        ],
+        "id": "0zoeV3IsS5x24AcG9OKJB",
+        "groupId": "3",
+        "area": "top",
+        "height": 667,
+        "width": 667,
+        "type": "image",
+        "angle": 0
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  },
+  {
+    "id": "zWMsRqFpcNccEi0Ofu7f",
+    "type": "pattern",
+    "category": "Get well soon",
+    "price": 2,
+    "name": "Get Well Simple",
+    "sku": "CTM-GWS",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/zWMsRqFpcNccEi0Ofu7f/thumbnail",
+    "createdAt": 1604318501711,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/PTWSsorupWKOwfPfYh2X/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/meXLZcSAC31cpLzCztTG/boxView",
+    "placeholders": [
+      {
+        "id": "UAjEJjOJjAJ8_otnXbgcP",
+        "angle": 0,
+        "type": "image",
+        "width": 470,
+        "startPoint": [
+          641,
+          148
+        ],
+        "groupId": "1",
+        "height": 470,
+        "area": "top"
+      },
+      {
+        "startPoint": [
+          1348,
+          863
+        ],
+        "type": "image",
+        "id": "OXaItDsk0fzNIHEWyaWVS",
+        "width": 470,
+        "angle": 0,
+        "groupId": "1",
+        "height": 470,
+        "area": "top"
+      },
+      {
+        "area": "top",
+        "groupId": "1",
+        "id": "nROILbNw7va5QSC9kITE-",
+        "width": 470,
+        "type": "image",
+        "height": 470,
+        "angle": 0,
+        "startPoint": [
+          239,
+          1388
+        ]
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "floatingFace"
+  },
+  {
+    "id": "zoej7YIvVEMxvNO0GkT2",
+    "type": "pattern",
+    "category": "Birthday",
+    "price": 2,
+    "name": "From me to you",
+    "sku": "CTM-FMTY",
+    "enabled": true,
+    "thumbnail": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/jhZZe1YLCIe9MEQxJATy/thumbnail",
+    "createdAt": 1601651993746,
+    "cutout": {
+      "url": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/6SSbd9UeRUJMlh6j5Hn6/design"
+    },
+    "boxView": "https://storage.googleapis.com/dev-teeela-gfwr.appspot.com/gw-bundles/pVxkUhhmplR9Bm6FAcQw/boxView",
+    "placeholders": [
+      {
+        "height": 606,
+        "groupId": "1",
+        "area": "top",
+        "width": 663,
+        "startPoint": [
+          671,
+          324
+        ],
+        "id": "ZEqy9kwhRqadkLNfopp2V",
+        "type": "image",
+        "angle": 0
+      },
+      {
+        "groupId": "2",
+        "id": "WUF5k3Yk4EL45d0KETHDy",
+        "width": 551,
+        "height": 475,
+        "angle": 0,
+        "type": "image",
+        "startPoint": [
+          722,
+          1302
+        ],
+        "area": "top"
+      }
+    ],
+    "width": 2000,
+    "height": 2000,
+    "patternType": "normal"
+  }
+]
