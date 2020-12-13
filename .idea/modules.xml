@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../graphql-gateway/.idea/graphql-gateway.iml" filepath="$PROJECT_DIR$/../graphql-gateway/.idea/graphql-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/graphqlProject.iml" filepath="$PROJECT_DIR$/.idea/graphqlProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node-rest/.idea/node-rest.iml" filepath="$PROJECT_DIR$/../node-rest/.idea/node-rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../restProject/.idea/restProject.iml" filepath="$PROJECT_DIR$/../restProject/.idea/restProject.iml" />
     </modules>
   </component>

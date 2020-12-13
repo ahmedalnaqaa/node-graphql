@@ -1,43 +1,37 @@
 const express = require('express');
 const { graphqlHTTP } = require('express-graphql');
 const { buildSchema } = require('graphql');
-const templates = require('./templates');
+const products = require('./products.json');
 
 // Construct a schema, using GraphQL schema language
 // Initialize a GraphQL schema
 const schema = buildSchema(`
   type Query {
-    template(id: String): Template
-    templates: [Template]
+    product(id: String): Product
+    products: [Product]
   },
-  type Template {
-    id: String
-    name: String
-    thumbnail: String
-    price: Int
-    category: String
+  type Product {
     sku: String
-    enabled: Boolean
-    visible: Boolean
+    name: String
   }
 `);
 
 // Return a single user (based on id)
-const getTemplate = function(args) {
-    const templateId = args.id;
-    return templates.filter(template => template.id === templateId)[0];
+const getProduct = function(args) {
+    const productSku = args.sku;
+    return products.filter(product => product.sku === productSku)[0];
 };
 
 // Return a list of users (takes an optional shark parameter)
-const retrieveTemplates = function(args) {
-    return templates;
+const retrieveProducts = function(args) {
+    return products;
 };
 
 // The root provides a resolver function for each API endpoint
 // Root resolver
 const root = {
-    template: getTemplate,  // Resolver function to return user with specific id
-    templates: retrieveTemplates
+    product: getProduct,  // Resolver function to return user with specific id
+    products: retrieveProducts
 };
 
 const app = express();

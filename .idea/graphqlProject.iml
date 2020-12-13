@@ -5,5 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="restProject" />
+    <orderEntry type="module" module-name="node-rest" />
+    <orderEntry type="module" module-name="graphql-gateway" />
   </component>
 </module>
